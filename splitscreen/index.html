@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">  
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+	<title>Academic English Split Screen Viewer</title>
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="css/normalize.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/xopixel.css" rel="stylesheet" type="text/css">
+	<style>
+	.tabcontainer{
+			width: 100%;
+			margin: 0 auto;
+		}
+		ul.tabs{
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+		ul.tabs li{
+			background: none;
+			color: #222;
+			display: inline-block;
+			padding: 10px 15px;
+			cursor: pointer;
+		}
+
+		ul.tabs li.current{
+			background: #ededed;
+			color: #222;
+		}
+
+		.tab-content{
+			display: none;
+			background: #ededed;
+			padding: 15px;
+		}
+
+		.tab-content.current{
+			display: inherit;
+		}
+		</style>
+</head>
+<body>
+
+<section class="xop-container">
+    <div class="xop-left">
+        <article>
+		<p><button class="button" id="btnFullscreen" type="button">Fullscreen ON/off</button><span style="float:right"><a class="altw" href="https://youtu.be/LbdEbWF1hA0" target="_blank">open</a></span>
+		<div class="container">
+			<iframe src="https://www.youtube.com/embed/LbdEbWF1hA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreenframeborder="0" allowfullscreen class="video"></iframe>
+		</article>
+		</div>
+    </div>    
+    <div class="xop-right">
+        <article>
+           <div class="tabcontainer">
+
+	<ul class="tabs">
+		<li class="tab-link current" data-tab="tab-1">Info</li>
+		<li class="tab-link" data-tab="tab-2">Academic English</li>
+		<li class="tab-link" data-tab="tab-3">Quiz</li>
+	</ul>
+
+	<div id="tab-1" class="tab-content current">
+
+			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlb3Qdsq5qaxMINj4A4bzCg_TkHFYUqgUIkOiPFZLYtJCYxSnhr0PcfBnFhFIHMyiwP-lvJOGVYE3T/embed?start=true&loop=true&delayms=15000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+			<a class="alt" href="https://1drv.ms/b/s!Ao9OgDBGkxfRkctp1tae5PkJ2ZRDFQ?e=G3rljk" target="_blank">open</a>
+	</div>
+	<div id="tab-2" class="tab-content">
+		<div class="container-tabs">
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHmALvqk6Hq_G-LUQzK42hzHwAEsPqTDkq4RBTaSekJpB8-w/viewform?embedded=true" class="video" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+		</div>
+	</div>
+	<div id="tab-3" class="tab-content">
+		Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+	</div>
+	<div id="tab-4" class="tab-content">
+		Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+	</div>
+
+</div><!-- container -->
+        </article>
+    </div>
+</section>
+
+    
+</body>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
+<script>
+$(document).ready(function () {
+  $("ul.tabs li").click(function () {
+    var tab_id = $(this).attr("data-tab");
+
+    $("ul.tabs li").removeClass("current");
+    $(".tab-content").removeClass("current");
+
+    $(this).addClass("current");
+    $("#" + tab_id).addClass("current");
+  });
+});
+</script>
+<script>
+function toggleFullscreen(elem) {
+  elem = elem || document.documentElement;
+  if (!document.fullscreenElement && !document.mozFullScreenElement &&
+    !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+      elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+      elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+      elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+  } else {
+    if (document.exitFullscreen) {
+      document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+      document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+      document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+      document.webkitExitFullscreen();
+    }
+  }
+}
+
+document.getElementById('btnFullscreen').addEventListener('click', function() {
+  toggleFullscreen();
+});
+
+document.getElementById('exampleImage').addEventListener('click', function() {
+  toggleFullscreen(this);
+});
+</script>
+</html>
