@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158090261-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-158090261-1');
+	</script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Academic English Spring 2020">
+    <meta name="author" content="Jason Andrews">
+
+    <link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16">  
+	<link rel="icon" type="image/png" href="imgfavicon-32x32.png" sizes="32x32">	
+    <title>Academic English Spring 2020</title>
+    <!-- Global stylesheets -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+	<link href="css/tabs.css" rel="stylesheet">
+	<link href="css/ticker.css" rel="stylesheet">
+</head>
+
+<body id="page-top">
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+       <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none  mx-0 px-0"><img src="img/logo.png" alt="Academic English" width="50" class="img-fluid"></span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid mx-auto mb-2" src="img/logo.png" width="60" alt="Academic English">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="centre" style="border:none;overflow:hidden;position:relative;width:100%;background:transparent">
+			<h3 class="header">ACADEMIC ENGLISH</h3>
+			<div class="padlet-embed" style="border:none;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/oefnvlglvhapyuyf" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:85vh;display:block;padding:0;margin:0"></iframe></p></div>
+	    </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+		<!--====================================================
+							SURVEY
+		======================================================-->  
+
+		<div class="marquee ticker">
+			<div class="slide"></div>
+		</div>
+		
+		<section class="resume-section p-3 p-lg-5 " id="experience">
+			<div class="col-md-12">
+				<div class="port-head-cont">
+					<button class="btn btn-general btn-green filter-b" data-filter="all"><a class="menu-link" href="index.html">HOME</a></button>
+					<button class="btn btn-general btn-green filter-b" data-filter="all"><a class="menu-link" href="message.html">MESSAGE</a></button>	
+					<button class="btn btn-general btn-green filter-b" data-filter="all"><a class="menu-link" href="classrooms.html">CLASSROOMS</a></button>
+					<button class="btn btn-general btn-green filter-b" data-filter="all"><a class="menu-link" href="grades.html">GRADES</a></button>					
+				</div>
+				<p>&nbsp;</p>
+			</div>
+			<div class="row text-center my-auto ">
+				<div class="resume-item col-md-12 col-sm-6"> 
+					<h3 class="centre"><b>MAKE A SURVEY</b></h3>
+					<p>&nbsp;</p>
+					<p class="centre spacer">Team survey exercise.</p>
+					<p>&nbsp;</p>
+				</div>
+			</div>
+			<div class="row my-auto grey-border">
+				<div class="resume-item col-md-12 col-sm-12">
+					<div class="card mx-0 p-4 mb-5">
+						<div>
+						<h3 class="spacer">About the Survey</h3>
+						<p>You and two other classmates will make a survey together. You can choose from a list of survey topics, or suggest your own topic.</p>
+						<p>The teacher will assign you to teams, and together you must make a total of 9 questions.</p>
+						<p>The quiz will be made in Google Forms.</p>
+						<p>The surveys will be made available to all students to answer in block 2.</p>
+						<p>An assignment about the survey must be handed-in by week 8.</p>
+						<p>&nbsp;</p>
+						<h3 class="spacer">Schedule</h3>
+						<p>Week 2 - Try an example survey, and choose your topic.</p>
+						<p>Week 3 - Start making a survey.</p>
+						<p>Week 5 - All surveys will be available on the website to answer.</p>
+						<p>Week 8 - Hand-in a report about your survey.</p>
+						<p>&nbsp;</p>
+						<h3 class="spacer">Scoring</h3>
+						<p><a href="https://forms.gle/15Ak8HQeci9fGZxQ9" target="_blank">Survey example</a> - 9 points</p>
+						<p><a href="https://forms.gle/KhhrxFwjYL4CsAsZ9" target="_blank">Survey topic choice</a> - 3 points</p>
+						<p><a href="https://1drv.ms/b/s!Ao9OgDBGkxfRkc4WeZALCgUWB-tODQ?e=sligMV" target="_blank">Make a survey</a> - 20 points</p>
+						<p>Survey assignment - 80 points</p>
+						
+					</div>
+				</div>  
+			</div>			
+		</section>    
+    </div>
+
+    <!-- Global javascript -->
+    <script src="js/jquery/jquery.min.js"></script>
+    <script src="js/custom.js"></script>
+    
+	<script>
+        $(document).ready(function(){
+
+        $(".filter-b").click(function(){
+            var value = $(this).attr('data-filter');
+            if(value == "all")
+            { 
+                $('.filter').show('1000');
+            }
+            else
+            { 
+                $(".filter").not('.'+value).hide('3000');
+                $('.filter').filter('.'+value).show('3000');
+            }
+        });
+        
+        if ($(".filter-b").removeClass("active")) {
+          $(this).removeClass("active");
+        }
+        $(this).addClass("active");
+        });
+
+        // SKILLS
+        $(function () {
+            $('.counter').counterUp({
+                delay: 10,
+                time: 2000
+            });
+
+        });
+    </script> 
+	<!-- Video scroll -->
+	<script src="https://code.jquery.com/jquery-3.2.0.slim.min.js"></script>
+	<script>
+	var ha = ( $('#videoBox').offset().top + $('#videoBox').height() );
+
+	$(window).scroll(function(){
+
+		if ( $(window).scrollTop() > ha + 500 ) {
+		$('#videoBox').css('bottom','0');
+		} else if ( $(window).scrollTop() < ha + 200) {
+		$('#videoBox').removeClass('out').addClass('in');
+		} else {
+		$('#videoBox').removeClass('in').addClass('out');
+		$('#videoBox').css('bottom','-500px');
+	  };
+
+	});
+	</script>
+</body>
+
+</html>
