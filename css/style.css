@@ -743,3 +743,11 @@ hr.menu {
     width:    -moz-calc(100% - 35px);
     width:         calc(100% - 35px);
 }
+
+.test-bg {
+	background: #f0f0f0;
+	border: 1px solid #4597EC;
+	padding: .6rem;
+	margin-bottom: 2rem;
+	width: 90%;
+}
