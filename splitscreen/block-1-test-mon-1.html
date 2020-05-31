@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158090261-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-158090261-1');
+	</script>
+
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">  
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+	<title>Academic English Split Screen Viewer</title>
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="css/normalize.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/xopixel.css" rel="stylesheet" type="text/css">
+	<style>
+		.tabcontainer{width: 100%;margin: 0 auto;}
+		ul.tabs{margin: 0px;padding: 0px;list-style: none;}
+		ul.tabs li{background: none;color: #222;display: inline-block;padding: 10px 15px;cursor: pointer;}
+		ul.tabs li.current{background: #ededed;color: #222;}
+		.tab-content{color: #000;display: none;background: #ededed;padding: 15px;}
+		.tab-content.current{display: inherit;}
+	</style>
+</head>
+<body>
+
+<section class="xop-container">
+    <div class="xop-left">
+        <article>
+			<p>MONDAY 1 CLASS ONLY<span style="float:right"><button class="button" id="btnFullscreen" type="button">Fullscreen ON/off</button></span></p>
+			<div class="container">
+			<img class="video" src="../img/block1test.jpg" width="100%">
+				<!--<iframe src="https://www.youtube.com/embed/Acu4o9LYflw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>-->
+			</div>
+		</article>
+    </div>    
+    <div class="xop-right">
+		<article>
+			<div class="tabcontainer">
+				<ul class="tabs">
+					<li class="tab-link current" data-tab="tab-1">Info</li>
+					<li class="tab-link" data-tab="tab-2">How to essay</li>
+					<li class="tab-link" data-tab="tab-3">Part 1A</li>
+					<li class="tab-link" data-tab="tab-4">Part 1B</li>
+					<li class="tab-link" data-tab="tab-5">Part 2</li>
+				</ul>
+
+				<div id="tab-1" class="tab-content current">
+					<div class="container-tabs">
+						<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5z3rwiXQ_HgJPCc7buQ8CCQGJlahIRlsz5eF6rYca1S4IN2aXjzWTE-IDM2dLW-VHoizLmHBq9Ftg/embed?start=true&loop=true&delayms=10000" frameborder="0" class="video" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><br>
+					</div>
+					<!--<div>
+						<a class="alt" href="https://1drv.ms/b/s!Ao9OgDBGkxfRkc14Svj7dy9AOvI9jA?e=hiZb0K" target="_blank">Open the PDF here</a>
+					</div>-->
+				</div>
+				<div id="tab-2" class="tab-content">
+					<div class="container-tabs">
+						<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtIWlO0c4E9AYyKb67vHrcx2Y7cdRGbdykVIaOFwSJN7fKBzU96IrxGXmWw4t5Tl___bti5Y6IGAdY/embed?start=true&loop=true&delayms=10000" frameborder="0" class="video" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+					</div>
+				</div>
+				<div id="tab-3" class="tab-content">
+					<div class="container-tabs">
+						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSch92GD3DNHl5kgPYQAH7dW7ewxqieFi5rI1ovLxPHK_l7nbA/viewform?embedded=true" class="video" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+					</div>
+				</div>
+				<div id="tab-4" class="tab-content">
+					<div class="container-tabs">
+						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLKPdVX1VCYXKuuZ9NbmwLuHLCgjnVWp3l-r5RIdovIUEJDA/viewform?embedded=true" class="video" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+					</div>
+				</div>
+				<div id="tab-5" class="tab-content">
+					<div class="container-tabs">
+						<div class="video">
+							<p><b>Write a Short Essay</b></p>
+							<p>Write a four-paragraph essay in Google Classroom.</p>
+							<p>About 200 words.</p>
+							<center><p><b>Classrooms</b></p>
+							<p><a href="https://classroom.google.com/u/1/c/NTgxMTgyNDc1MTJa" target="_blank">Monday 1</a></p>
+							<p><a href="https://classroom.google.com/u/1/c/NTgxMTgyNDc3MTha" target="_blank">Monday 2</a></p></center>
+						</div>
+					</div>
+				</div>
+
+			</div><!-- container -->
+		</article>
+	</div>
+</section>
+
+    
+</body>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
+
+<script>
+	$(document).ready(function () {
+	  $("ul.tabs li").click(function () {
+		var tab_id = $(this).attr("data-tab");
+
+		$("ul.tabs li").removeClass("current");
+		$(".tab-content").removeClass("current");
+
+		$(this).addClass("current");
+		$("#" + tab_id).addClass("current");
+	  });
+	});
+</script>
+<script>
+	function toggleFullscreen(elem) {
+	  elem = elem || document.documentElement;
+	  if (!document.fullscreenElement && !document.mozFullScreenElement &&
+		!document.webkitFullscreenElement && !document.msFullscreenElement) {
+		if (elem.requestFullscreen) {
+		  elem.requestFullscreen();
+		} else if (elem.msRequestFullscreen) {
+		  elem.msRequestFullscreen();
+		} else if (elem.mozRequestFullScreen) {
+		  elem.mozRequestFullScreen();
+		} else if (elem.webkitRequestFullscreen) {
+		  elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+		}
+	  } else {
+		if (document.exitFullscreen) {
+		  document.exitFullscreen();
+		} else if (document.msExitFullscreen) {
+		  document.msExitFullscreen();
+		} else if (document.mozCancelFullScreen) {
+		  document.mozCancelFullScreen();
+		} else if (document.webkitExitFullscreen) {
+		  document.webkitExitFullscreen();
+		}
+	  }
+	}
+
+	document.getElementById('btnFullscreen').addEventListener('click', function() {
+	  toggleFullscreen();
+	});
+
+	document.getElementById('exampleImage').addEventListener('click', function() {
+	  toggleFullscreen(this);
+	});
+</script>
+</html>
