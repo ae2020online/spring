@@ -736,12 +736,23 @@ hr.menu {
 	padding: 0;
 }
 
+.number-border {
+	background: transparent;
+	border: solid 1px #ccc;
+	border-radius: 50%;
+	float: left;
+	height: 40px;
+	padding: 6px;
+	width: 40px;
+	text-align: center;
+}
+
 .lesson-text {
 	float: left;
-	padding: .4rem .8rem;
-	width: -webkit-calc(100% - 35px);
-    width:    -moz-calc(100% - 35px);
-    width:         calc(100% - 35px);
+	padding: .4rem .8rem 1.5rem;
+	width: -webkit-calc(100% - 40px);
+    width:    -moz-calc(100% - 40px);
+    width:         calc(100% - 40px);
 }
 
 .test-bg {
