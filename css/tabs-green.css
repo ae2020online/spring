@@ -39,9 +39,9 @@
   flex-grow: 1;
   width: 100%;
   display: none;
-  padding: 1rem;
-  background: #fdfdfd;
-  border: 1px solid #e8e8e8;
+  padding: 1rem 0;
+  background: #fff;
+  border: 1px solid #fdfdfd;
 }
 
 .tabs input[type="radio"] {
@@ -49,7 +49,7 @@
   opacity: 0;
 }
 
-.tabs input[type="radio"]:checked + label { background: #fdfdfd;color:#303030;}
+.tabs input[type="radio"]:checked + label { background: #fafafa;color:#303030;}
 
 .tabs input[type="radio"]:checked + label + .tab { display: block; }
  @media (max-width: 45em) {
@@ -65,5 +65,4 @@
   width: 100%;
   margin-right: 0;
   margin-top: 0.2rem;
-}
 }
