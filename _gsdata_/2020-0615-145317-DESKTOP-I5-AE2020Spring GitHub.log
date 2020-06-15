@@ -1,0 +1,586 @@
+2020-06-15 14:53:23: == Sync Started by User Command
+2020-06-15 14:53:24: Delete File 'K:/Website backup/AE2020Spring/index-new.html'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/00'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/02'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/06'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/0a'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/0b'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/0d'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/12'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/17'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/1a'
+2020-06-15 14:53:24: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/1b'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/1c'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/1f'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/23'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/24'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/2a'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/2b'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/2d'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/31'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/34'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/36'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/37'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/38'
+2020-06-15 14:53:25: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/3c'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/3f'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/41'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/44'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/47'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/49'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/4f'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/51'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/52'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/53'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/54'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/56'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/57'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/59'
+2020-06-15 14:53:26: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/5a'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/5c'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/5f'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/61'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/64'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/65'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/66'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/6b'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/6d'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/6f'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/70'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/71'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/72'
+2020-06-15 14:53:27: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/73'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/74'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/76'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/77'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/78'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/7b'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/81'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/82'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/84'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/86'
+2020-06-15 14:53:28: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/87'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/8b'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/8d'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/90'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/91'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/95'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/98'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/99'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/9e'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/9f'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/a1'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/a2'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/a4'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/a5'
+2020-06-15 14:53:29: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/a6'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/aa'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ac'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ad'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/b2'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/b3'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/b5'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/b6'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ba'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/be'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/c0'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/c2'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/c9'
+2020-06-15 14:53:30: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ca'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/cc'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/cd'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ce'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/d5'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/d7'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/db'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/e0'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/e1'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/e2'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/e5'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/e8'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/e9'
+2020-06-15 14:53:31: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/eb'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ec'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ed'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ef'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/f0'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/f1'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/f2'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/f6'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/f7'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/f8'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/.git/objects/ff'
+2020-06-15 14:53:32: Create Folder 'K:/Website backup/AE2020Spring/surveys'
+2020-06-15 14:53:33: Copy Over 'L:/Github/spring/.git/COMMIT_EDITMSG' -> 'K:/Website backup/AE2020Spring/.git/COMMIT_EDITMSG' (7)
+2020-06-15 14:53:33: Copy Over 'L:/Github/spring/.git/FETCH_HEAD' -> 'K:/Website backup/AE2020Spring/.git/FETCH_HEAD' (100)
+2020-06-15 14:53:33: Copy Over 'L:/Github/spring/.git/index' -> 'K:/Website backup/AE2020Spring/.git/index' (7,691)
+2020-06-15 14:53:33: Copy Over 'L:/Github/spring/.git/logs/HEAD' -> 'K:/Website backup/AE2020Spring/.git/logs/HEAD' (21,547)
+2020-06-15 14:53:34: Copy Over 'L:/Github/spring/.git/logs/refs/heads/master' -> 'K:/Website backup/AE2020Spring/.git/logs/refs/heads/master' (21,547)
+2020-06-15 14:53:34: Copy Over 'L:/Github/spring/.git/logs/refs/remotes/origin/master' -> 'K:/Website backup/AE2020Spring/.git/logs/refs/remotes/origin/master' (18,422)
+2020-06-15 14:53:34: Copy New 'L:/Github/spring/.git/objects/00/af0487a54399317660b1e3855aa0585b812c53' -> 'K:/Website backup/AE2020Spring/.git/objects/00/af0487a54399317660b1e3855aa0585b812c53' (237)
+2020-06-15 14:53:35: Copy New 'L:/Github/spring/.git/objects/00/ba6569b271065e23e08acf56e896e78965f153' -> 'K:/Website backup/AE2020Spring/.git/objects/00/ba6569b271065e23e08acf56e896e78965f153' (7,775)
+2020-06-15 14:53:35: Copy New 'L:/Github/spring/.git/objects/02/776480f56428e08e79e56f597c52378b36b87a' -> 'K:/Website backup/AE2020Spring/.git/objects/02/776480f56428e08e79e56f597c52378b36b87a' (57)
+2020-06-15 14:53:35: Copy New 'L:/Github/spring/.git/objects/02/964619ebd54d4c74cd7427f17652945c97445d' -> 'K:/Website backup/AE2020Spring/.git/objects/02/964619ebd54d4c74cd7427f17652945c97445d' (349)
+2020-06-15 14:53:35: Copy New 'L:/Github/spring/.git/objects/03/fa1823001589445b59fa579b5f9c15c7a89a4a' -> 'K:/Website backup/AE2020Spring/.git/objects/03/fa1823001589445b59fa579b5f9c15c7a89a4a' (158)
+2020-06-15 14:53:35: Copy New 'L:/Github/spring/.git/objects/04/0acb051fe64e800f7c5be35a2f8c153cb3ce31' -> 'K:/Website backup/AE2020Spring/.git/objects/04/0acb051fe64e800f7c5be35a2f8c153cb3ce31' (176)
+2020-06-15 14:53:36: Copy New 'L:/Github/spring/.git/objects/04/239a53feba80677fb21d7923ca5b7342bf6ffd' -> 'K:/Website backup/AE2020Spring/.git/objects/04/239a53feba80677fb21d7923ca5b7342bf6ffd' (7,770)
+2020-06-15 14:53:36: Copy New 'L:/Github/spring/.git/objects/04/573280f4b6add4e15302a77a35d17c7ee704f2' -> 'K:/Website backup/AE2020Spring/.git/objects/04/573280f4b6add4e15302a77a35d17c7ee704f2' (56)
+2020-06-15 14:53:36: Copy New 'L:/Github/spring/.git/objects/04/6239f4a744853279ebdd93b173bda4f1536c16' -> 'K:/Website backup/AE2020Spring/.git/objects/04/6239f4a744853279ebdd93b173bda4f1536c16' (12,017)
+2020-06-15 14:53:36: Copy New 'L:/Github/spring/.git/objects/05/0a15935c5006a2a1d28896089b42a1e1e77aa0' -> 'K:/Website backup/AE2020Spring/.git/objects/05/0a15935c5006a2a1d28896089b42a1e1e77aa0' (593)
+2020-06-15 14:53:37: Copy New 'L:/Github/spring/.git/objects/06/6e6dbfef0c64e29a57c6abbe0c798e3972f2d5' -> 'K:/Website backup/AE2020Spring/.git/objects/06/6e6dbfef0c64e29a57c6abbe0c798e3972f2d5' (56)
+2020-06-15 14:53:37: Copy New 'L:/Github/spring/.git/objects/07/0fcf6743c408e62067297ef2b162953abbba45' -> 'K:/Website backup/AE2020Spring/.git/objects/07/0fcf6743c408e62067297ef2b162953abbba45' (646)
+2020-06-15 14:53:37: Copy New 'L:/Github/spring/.git/objects/07/83f41a359ba219351483507ea182648a314610' -> 'K:/Website backup/AE2020Spring/.git/objects/07/83f41a359ba219351483507ea182648a314610' (292)
+2020-06-15 14:53:38: Copy New 'L:/Github/spring/.git/objects/08/7b3f63a9e8ffa29489995e57492248af0edf04' -> 'K:/Website backup/AE2020Spring/.git/objects/08/7b3f63a9e8ffa29489995e57492248af0edf04' (3,116)
+2020-06-15 14:53:39: Copy New 'L:/Github/spring/.git/objects/08/e0f764fc3e3bde4acddd894b841712fdeb8853' -> 'K:/Website backup/AE2020Spring/.git/objects/08/e0f764fc3e3bde4acddd894b841712fdeb8853' (2,393)
+2020-06-15 14:53:39: Copy New 'L:/Github/spring/.git/objects/09/950c35c2d4bcb20f3d537b5e4f1a7a3dd8e8f5' -> 'K:/Website backup/AE2020Spring/.git/objects/09/950c35c2d4bcb20f3d537b5e4f1a7a3dd8e8f5' (725)
+2020-06-15 14:53:40: Copy New 'L:/Github/spring/.git/objects/0a/68c07ff075d869733d3b7064a667b92e5bf126' -> 'K:/Website backup/AE2020Spring/.git/objects/0a/68c07ff075d869733d3b7064a667b92e5bf126' (2,389)
+2020-06-15 14:53:40: Copy New 'L:/Github/spring/.git/objects/0a/ed7e9a3b448943a567837a350827ab709ffa26' -> 'K:/Website backup/AE2020Spring/.git/objects/0a/ed7e9a3b448943a567837a350827ab709ffa26' (266)
+2020-06-15 14:53:41: Copy New 'L:/Github/spring/.git/objects/0b/c5f35a5e10d7a166b2d92ae90e8fd33cdbda92' -> 'K:/Website backup/AE2020Spring/.git/objects/0b/c5f35a5e10d7a166b2d92ae90e8fd33cdbda92' (2,690)
+2020-06-15 14:53:41: Copy New 'L:/Github/spring/.git/objects/0c/420e9744a41fca61f99f5ba76873cc25eeccf1' -> 'K:/Website backup/AE2020Spring/.git/objects/0c/420e9744a41fca61f99f5ba76873cc25eeccf1' (726)
+2020-06-15 14:53:42: Copy New 'L:/Github/spring/.git/objects/0c/96993d8c0bef0eab86b1bdcb498716c93b7ab0' -> 'K:/Website backup/AE2020Spring/.git/objects/0c/96993d8c0bef0eab86b1bdcb498716c93b7ab0' (660)
+2020-06-15 14:53:42: Copy New 'L:/Github/spring/.git/objects/0d/514d9ede0e6d4c52d1f34a6daba6c3391e7781' -> 'K:/Website backup/AE2020Spring/.git/objects/0d/514d9ede0e6d4c52d1f34a6daba6c3391e7781' (432)
+2020-06-15 14:53:43: Copy New 'L:/Github/spring/.git/objects/0f/91b1865ded3a88f02ecf4c000ebad0eec9a6d4' -> 'K:/Website backup/AE2020Spring/.git/objects/0f/91b1865ded3a88f02ecf4c000ebad0eec9a6d4' (167)
+2020-06-15 14:53:43: Copy New 'L:/Github/spring/.git/objects/11/28dd38fbaf3356c78d9b9d9fa4d07879ce1631' -> 'K:/Website backup/AE2020Spring/.git/objects/11/28dd38fbaf3356c78d9b9d9fa4d07879ce1631' (6,405)
+2020-06-15 14:53:43: Copy New 'L:/Github/spring/.git/objects/11/4c1fb2bbd87f02011eb3f1cc6d9d75e8f50203' -> 'K:/Website backup/AE2020Spring/.git/objects/11/4c1fb2bbd87f02011eb3f1cc6d9d75e8f50203' (7,417)
+2020-06-15 14:53:43: Copy New 'L:/Github/spring/.git/objects/12/7d469f4e2bd56f76df56c8cd75138fdb50559a' -> 'K:/Website backup/AE2020Spring/.git/objects/12/7d469f4e2bd56f76df56c8cd75138fdb50559a' (7,954)
+2020-06-15 14:53:43: Copy New 'L:/Github/spring/.git/objects/13/575561347cb56a687ae35fa465ae3cbba704c3' -> 'K:/Website backup/AE2020Spring/.git/objects/13/575561347cb56a687ae35fa465ae3cbba704c3' (237)
+2020-06-15 14:53:44: Copy New 'L:/Github/spring/.git/objects/13/89c21640192c40e968dc4651eebc2b37d2dc72' -> 'K:/Website backup/AE2020Spring/.git/objects/13/89c21640192c40e968dc4651eebc2b37d2dc72' (2,390)
+2020-06-15 14:53:44: Copy New 'L:/Github/spring/.git/objects/13/cc31ee76fb8c83700382c735818256c23107be' -> 'K:/Website backup/AE2020Spring/.git/objects/13/cc31ee76fb8c83700382c735818256c23107be' (7,693)
+2020-06-15 14:53:44: Copy New 'L:/Github/spring/.git/objects/14/ede63f29a3c5a0ee688c9400f11db624d2c913' -> 'K:/Website backup/AE2020Spring/.git/objects/14/ede63f29a3c5a0ee688c9400f11db624d2c913' (618)
+2020-06-15 14:53:44: Copy New 'L:/Github/spring/.git/objects/15/4e1c7e172760224be4f20d15117bc95b0b9fef' -> 'K:/Website backup/AE2020Spring/.git/objects/15/4e1c7e172760224be4f20d15117bc95b0b9fef' (175)
+2020-06-15 14:53:44: Copy New 'L:/Github/spring/.git/objects/15/77ea70fd6cc94376ddcde65303a59d8a0a2001' -> 'K:/Website backup/AE2020Spring/.git/objects/15/77ea70fd6cc94376ddcde65303a59d8a0a2001' (646)
+2020-06-15 14:53:44: Copy New 'L:/Github/spring/.git/objects/15/db14dd37684441ea294c670b395722d59c1ec3' -> 'K:/Website backup/AE2020Spring/.git/objects/15/db14dd37684441ea294c670b395722d59c1ec3' (2,323)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/16/d88b2ff82fb3a3119f45e262e016819f4ac582' -> 'K:/Website backup/AE2020Spring/.git/objects/16/d88b2ff82fb3a3119f45e262e016819f4ac582' (3,654)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/17/2e41e6b321a2ffc3106407e291acae4d8e4329' -> 'K:/Website backup/AE2020Spring/.git/objects/17/2e41e6b321a2ffc3106407e291acae4d8e4329' (646)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/17/83fd0e68c446d32b22b5ecc2156ffa26834899' -> 'K:/Website backup/AE2020Spring/.git/objects/17/83fd0e68c446d32b22b5ecc2156ffa26834899' (165)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/17/a18fcbecb0c45c3b2dd049d4732593e35cde5a' -> 'K:/Website backup/AE2020Spring/.git/objects/17/a18fcbecb0c45c3b2dd049d4732593e35cde5a' (2,380)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/17/baa42b52748a82df444de3a90afd0061bcc8b0' -> 'K:/Website backup/AE2020Spring/.git/objects/17/baa42b52748a82df444de3a90afd0061bcc8b0' (2,805)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/19/3207a87598fc4c63f0590244b2071c412a3b63' -> 'K:/Website backup/AE2020Spring/.git/objects/19/3207a87598fc4c63f0590244b2071c412a3b63' (726)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/1a/54538f9b1f0bc8915a844433ad73d84503e87b' -> 'K:/Website backup/AE2020Spring/.git/objects/1a/54538f9b1f0bc8915a844433ad73d84503e87b' (618)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/1a/a9e28e578882d1716304b35eb07a1aa8786c6e' -> 'K:/Website backup/AE2020Spring/.git/objects/1a/a9e28e578882d1716304b35eb07a1aa8786c6e' (169)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/1a/f5e33c84efdabcc98e87614d90d873239ed633' -> 'K:/Website backup/AE2020Spring/.git/objects/1a/f5e33c84efdabcc98e87614d90d873239ed633' (646)
+2020-06-15 14:53:45: Copy New 'L:/Github/spring/.git/objects/1b/26c84cb22fc2547d429196573246061b486540' -> 'K:/Website backup/AE2020Spring/.git/objects/1b/26c84cb22fc2547d429196573246061b486540' (6,382)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1b/6a11691e80fe3bb0ea3dac22d4d92645c3fbc0' -> 'K:/Website backup/AE2020Spring/.git/objects/1b/6a11691e80fe3bb0ea3dac22d4d92645c3fbc0' (6,221)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1b/aeef0731bbaf3cc09b65a85cb7dbb47f13dc94' -> 'K:/Website backup/AE2020Spring/.git/objects/1b/aeef0731bbaf3cc09b65a85cb7dbb47f13dc94' (2,392)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1b/ec0915d0aa4f6ff8138693e9a5d8410087b9d9' -> 'K:/Website backup/AE2020Spring/.git/objects/1b/ec0915d0aa4f6ff8138693e9a5d8410087b9d9' (434)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1c/3e93baf3f99ed526bfacbd096076342c0e1bbb' -> 'K:/Website backup/AE2020Spring/.git/objects/1c/3e93baf3f99ed526bfacbd096076342c0e1bbb' (164)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1e/e90d69540c75dc86e06a2e633fd8a97f263a87' -> 'K:/Website backup/AE2020Spring/.git/objects/1e/e90d69540c75dc86e06a2e633fd8a97f263a87' (646)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1f/502223a4f477c2da9361fd19802d79b6b15522' -> 'K:/Website backup/AE2020Spring/.git/objects/1f/502223a4f477c2da9361fd19802d79b6b15522' (171)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/1f/db5d41a6c49b27227a91e063d149f2db6b3ca2' -> 'K:/Website backup/AE2020Spring/.git/objects/1f/db5d41a6c49b27227a91e063d149f2db6b3ca2' (7,417)
+2020-06-15 14:53:46: Copy New 'L:/Github/spring/.git/objects/20/1b2b1bcd59a66214bc48684626a10ace5e2a6c' -> 'K:/Website backup/AE2020Spring/.git/objects/20/1b2b1bcd59a66214bc48684626a10ace5e2a6c' (7,497)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/20/ab91c2cb3cbc4842e3c55f8ab70a5db63737d1' -> 'K:/Website backup/AE2020Spring/.git/objects/20/ab91c2cb3cbc4842e3c55f8ab70a5db63737d1' (169)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/21/709c6cc9c4806c0aa857ec39f632a992de8c30' -> 'K:/Website backup/AE2020Spring/.git/objects/21/709c6cc9c4806c0aa857ec39f632a992de8c30' (403)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/22/10090ba4c5aafe59f9b4df22693d8fc3ffcd8a' -> 'K:/Website backup/AE2020Spring/.git/objects/22/10090ba4c5aafe59f9b4df22693d8fc3ffcd8a' (433)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/23/969a4c83236bbcc579317e093a1091397eb307' -> 'K:/Website backup/AE2020Spring/.git/objects/23/969a4c83236bbcc579317e093a1091397eb307' (3,935)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/23/b0364ef244149b84a885b4e5ef5e448d8cacb8' -> 'K:/Website backup/AE2020Spring/.git/objects/23/b0364ef244149b84a885b4e5ef5e448d8cacb8' (646)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/23/b04199860cd96dc0e8351eb292baeaa030f4b6' -> 'K:/Website backup/AE2020Spring/.git/objects/23/b04199860cd96dc0e8351eb292baeaa030f4b6' (178)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/24/582d44be43d06bae19f211651043e092591500' -> 'K:/Website backup/AE2020Spring/.git/objects/24/582d44be43d06bae19f211651043e092591500' (5,888)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/24/cc347543e2670f915c27022cd1bfe9233720ec' -> 'K:/Website backup/AE2020Spring/.git/objects/24/cc347543e2670f915c27022cd1bfe9233720ec' (164)
+2020-06-15 14:53:47: Copy New 'L:/Github/spring/.git/objects/24/d4562bc4190e56dc14bd8f6465ba6f59eeea56' -> 'K:/Website backup/AE2020Spring/.git/objects/24/d4562bc4190e56dc14bd8f6465ba6f59eeea56' (646)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/26/7144321b0fefdd3e4a6f37f089afb17f5516b7' -> 'K:/Website backup/AE2020Spring/.git/objects/26/7144321b0fefdd3e4a6f37f089afb17f5516b7' (158)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/28/a648f125cde7e5bd86c2926c2581d7ca93e2aa' -> 'K:/Website backup/AE2020Spring/.git/objects/28/a648f125cde7e5bd86c2926c2581d7ca93e2aa' (646)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/28/cdbcdf459dd4f5c33381f572a3296888678e5d' -> 'K:/Website backup/AE2020Spring/.git/objects/28/cdbcdf459dd4f5c33381f572a3296888678e5d' (645)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/29/ad416b66d86956d7d801e57322403212d84768' -> 'K:/Website backup/AE2020Spring/.git/objects/29/ad416b66d86956d7d801e57322403212d84768' (159)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/29/b9860341472dea8cfd8f871c05c732dbd8b018' -> 'K:/Website backup/AE2020Spring/.git/objects/29/b9860341472dea8cfd8f871c05c732dbd8b018' (593)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/2a/2e1be65200527b8a9138ff869759079f936583' -> 'K:/Website backup/AE2020Spring/.git/objects/2a/2e1be65200527b8a9138ff869759079f936583' (725)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/2a/63438fd85078b9374dbb20fa28bad3c945b780' -> 'K:/Website backup/AE2020Spring/.git/objects/2a/63438fd85078b9374dbb20fa28bad3c945b780' (176)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/2a/a75ea87f035aec3cf9f9fc02f5caace65871fe' -> 'K:/Website backup/AE2020Spring/.git/objects/2a/a75ea87f035aec3cf9f9fc02f5caace65871fe' (2,389)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/2b/04f20e3cbe42b47a53a8875758ff7b60eaf02c' -> 'K:/Website backup/AE2020Spring/.git/objects/2b/04f20e3cbe42b47a53a8875758ff7b60eaf02c' (2,375)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/2b/eab237acd1208713961c9e1a4c2edaefd55a44' -> 'K:/Website backup/AE2020Spring/.git/objects/2b/eab237acd1208713961c9e1a4c2edaefd55a44' (167)
+2020-06-15 14:53:48: Copy New 'L:/Github/spring/.git/objects/2b/faf008ed284c5e6ce5dee6d0f6d47d50acbf89' -> 'K:/Website backup/AE2020Spring/.git/objects/2b/faf008ed284c5e6ce5dee6d0f6d47d50acbf89' (2,749)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/2c/5d477a2d835868d36865e757910fccddf7d762' -> 'K:/Website backup/AE2020Spring/.git/objects/2c/5d477a2d835868d36865e757910fccddf7d762' (6,287)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/2c/d774d124963528f88db38e941a265fa18424c9' -> 'K:/Website backup/AE2020Spring/.git/objects/2c/d774d124963528f88db38e941a265fa18424c9' (432)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/2d/024b29a738b23f08cef5adb73b40bd011c2222' -> 'K:/Website backup/AE2020Spring/.git/objects/2d/024b29a738b23f08cef5adb73b40bd011c2222' (2,308)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/2d/16d5253d1cf5deb840c82922170138fab18179' -> 'K:/Website backup/AE2020Spring/.git/objects/2d/16d5253d1cf5deb840c82922170138fab18179' (5,897)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/2e/d057000abc1436cfac352c21c5e7eefcfda720' -> 'K:/Website backup/AE2020Spring/.git/objects/2e/d057000abc1436cfac352c21c5e7eefcfda720' (647)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/31/0a1451418258b9f8d4f26b69e4ab6de6bb698f' -> 'K:/Website backup/AE2020Spring/.git/objects/31/0a1451418258b9f8d4f26b69e4ab6de6bb698f' (593)
+2020-06-15 14:53:49: Copy New 'L:/Github/spring/.git/objects/34/0a17b7cfdc28e4a01e5e984e9cea6879e9b9c4' -> 'K:/Website backup/AE2020Spring/.git/objects/34/0a17b7cfdc28e4a01e5e984e9cea6879e9b9c4' (169)
+2020-06-15 14:53:49: Copy Over 'L:/Github/spring/.git/objects/35/ae6276e94a8f347792a475c51f3bd0d77c8c96' -> 'K:/Website backup/AE2020Spring/.git/objects/35/ae6276e94a8f347792a475c51f3bd0d77c8c96' (5,834)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/35/c6c66c285a13f78246f624b6cdfd2fe8195be0' -> 'K:/Website backup/AE2020Spring/.git/objects/35/c6c66c285a13f78246f624b6cdfd2fe8195be0' (7,489)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/35/d027afc9c9e2025723d76688ffd2462306d18e' -> 'K:/Website backup/AE2020Spring/.git/objects/35/d027afc9c9e2025723d76688ffd2462306d18e' (726)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/36/54ddc2ac7f2e0c63ac9cb6bab62f23e2ac294c' -> 'K:/Website backup/AE2020Spring/.git/objects/36/54ddc2ac7f2e0c63ac9cb6bab62f23e2ac294c' (159)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/36/5ef29054e5efd790aca1076925120dd0ee6528' -> 'K:/Website backup/AE2020Spring/.git/objects/36/5ef29054e5efd790aca1076925120dd0ee6528' (3,601)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/36/e3be5a4f2ecfadf9f6bd76af4ee0198dcd5078' -> 'K:/Website backup/AE2020Spring/.git/objects/36/e3be5a4f2ecfadf9f6bd76af4ee0198dcd5078' (168)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/37/24bc5eccfcdb685b1d9f5f375d2416e59da57f' -> 'K:/Website backup/AE2020Spring/.git/objects/37/24bc5eccfcdb685b1d9f5f375d2416e59da57f' (237)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/37/299a9c6cf975ae85d46b2de2ad66e1e296a766' -> 'K:/Website backup/AE2020Spring/.git/objects/37/299a9c6cf975ae85d46b2de2ad66e1e296a766' (618)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/38/36e24d7a02b9c0badbd213106ddf4dcc7f0310' -> 'K:/Website backup/AE2020Spring/.git/objects/38/36e24d7a02b9c0badbd213106ddf4dcc7f0310' (646)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/38/fc8c7f089fef0047ee4e8eb3e9842e0e17d181' -> 'K:/Website backup/AE2020Spring/.git/objects/38/fc8c7f089fef0047ee4e8eb3e9842e0e17d181' (2,706)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/3a/8afa6797b3e1247c5bd6ac4697abe97863e627' -> 'K:/Website backup/AE2020Spring/.git/objects/3a/8afa6797b3e1247c5bd6ac4697abe97863e627' (646)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/3c/7a126e2f3198fc970a843b5c142107b22e3c63' -> 'K:/Website backup/AE2020Spring/.git/objects/3c/7a126e2f3198fc970a843b5c142107b22e3c63' (293)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/3d/5cacd5b43bf39b5836b83597fde7bf018fa89a' -> 'K:/Website backup/AE2020Spring/.git/objects/3d/5cacd5b43bf39b5836b83597fde7bf018fa89a' (6,304)
+2020-06-15 14:53:50: Copy New 'L:/Github/spring/.git/objects/3d/e17ed890036bd4ace7608f01866c7d24c8d3cd' -> 'K:/Website backup/AE2020Spring/.git/objects/3d/e17ed890036bd4ace7608f01866c7d24c8d3cd' (234)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/3e/b1afdf1de66c58c71867ba12c1c2573333bce7' -> 'K:/Website backup/AE2020Spring/.git/objects/3e/b1afdf1de66c58c71867ba12c1c2573333bce7' (645)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/3f/69d2cae5294e59e74d04ecf8060effae081b8d' -> 'K:/Website backup/AE2020Spring/.git/objects/3f/69d2cae5294e59e74d04ecf8060effae081b8d' (152)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/3f/91fb04850d7649fb58469f10592d66d7a428b6' -> 'K:/Website backup/AE2020Spring/.git/objects/3f/91fb04850d7649fb58469f10592d66d7a428b6' (646)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/40/26552667b3f48bb3d933621a527f4a9d13a593' -> 'K:/Website backup/AE2020Spring/.git/objects/40/26552667b3f48bb3d933621a527f4a9d13a593' (168)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/41/65be6eb42dcb42382a7fad9c0c5106cc325eb0' -> 'K:/Website backup/AE2020Spring/.git/objects/41/65be6eb42dcb42382a7fad9c0c5106cc325eb0' (324)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/44/21b61d1f8fccbf14a11fc2346a8bd0b9463fca' -> 'K:/Website backup/AE2020Spring/.git/objects/44/21b61d1f8fccbf14a11fc2346a8bd0b9463fca' (163)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/46/6e98f9082dadad23ea0f3014dd02b10fd0e4ec' -> 'K:/Website backup/AE2020Spring/.git/objects/46/6e98f9082dadad23ea0f3014dd02b10fd0e4ec' (237)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/46/c6de24bd25e9130acfcdecb178b1ed30f21a4c' -> 'K:/Website backup/AE2020Spring/.git/objects/46/c6de24bd25e9130acfcdecb178b1ed30f21a4c' (6,311)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/47/8f24ce67a5584435136511e35fcb9bd77b693d' -> 'K:/Website backup/AE2020Spring/.git/objects/47/8f24ce67a5584435136511e35fcb9bd77b693d' (171)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/48/7aba702a25c37de0c918ae10d667d8bce1f8d0' -> 'K:/Website backup/AE2020Spring/.git/objects/48/7aba702a25c37de0c918ae10d667d8bce1f8d0' (167)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/49/1013c3198f0476b91fc547a3f5bd027d80fcba' -> 'K:/Website backup/AE2020Spring/.git/objects/49/1013c3198f0476b91fc547a3f5bd027d80fcba' (2,378)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/49/a4347dffb9ebf63367bdd7ead000c8f4da7c09' -> 'K:/Website backup/AE2020Spring/.git/objects/49/a4347dffb9ebf63367bdd7ead000c8f4da7c09' (162)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/49/b9f6dae6cecd3e1536668b51bdd1d946b47303' -> 'K:/Website backup/AE2020Spring/.git/objects/49/b9f6dae6cecd3e1536668b51bdd1d946b47303' (619)
+2020-06-15 14:53:51: Copy New 'L:/Github/spring/.git/objects/49/c22346d6fd25389b448b3ef4efeb59dea5d7c3' -> 'K:/Website backup/AE2020Spring/.git/objects/49/c22346d6fd25389b448b3ef4efeb59dea5d7c3' (3,911)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/49/e8e8b54f3b2080b692a8b8c64eec41a438da47' -> 'K:/Website backup/AE2020Spring/.git/objects/49/e8e8b54f3b2080b692a8b8c64eec41a438da47' (6,451)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/4a/c174415823d5faf73b547c70172a3dad422f83' -> 'K:/Website backup/AE2020Spring/.git/objects/4a/c174415823d5faf73b547c70172a3dad422f83' (433)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/4a/c5d0a3041d694e4a8b251fc08b8b30b519fc73' -> 'K:/Website backup/AE2020Spring/.git/objects/4a/c5d0a3041d694e4a8b251fc08b8b30b519fc73' (646)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/4b/4ba22aee4cbd5f2355f53b50be0228ac622221' -> 'K:/Website backup/AE2020Spring/.git/objects/4b/4ba22aee4cbd5f2355f53b50be0228ac622221' (3,072)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/4c/0f0ec45e3f78429508d609719b3024822f0506' -> 'K:/Website backup/AE2020Spring/.git/objects/4c/0f0ec45e3f78429508d609719b3024822f0506' (2,388)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/4e/a9d0677bc22263155127af308ed8ab034530e0' -> 'K:/Website backup/AE2020Spring/.git/objects/4e/a9d0677bc22263155127af308ed8ab034530e0' (7,528)
+2020-06-15 14:53:52: Copy New 'L:/Github/spring/.git/objects/4e/c242e2939cdf332e1de3a4c45d24ba5875646c' -> 'K:/Website backup/AE2020Spring/.git/objects/4e/c242e2939cdf332e1de3a4c45d24ba5875646c' (159)
+2020-06-15 14:53:53: Copy New 'L:/Github/spring/.git/objects/4f/63a02364e8102c031bde26fc985e069b3a1feb' -> 'K:/Website backup/AE2020Spring/.git/objects/4f/63a02364e8102c031bde26fc985e069b3a1feb' (8,138)
+2020-06-15 14:53:53: Copy New 'L:/Github/spring/.git/objects/51/c77c08cbc762b93cbb0b15bec8efede5cf03ce' -> 'K:/Website backup/AE2020Spring/.git/objects/51/c77c08cbc762b93cbb0b15bec8efede5cf03ce' (6,399)
+2020-06-15 14:53:53: Copy New 'L:/Github/spring/.git/objects/51/d2387e1cf5dd1d0a5434bc6515b51f62a14030' -> 'K:/Website backup/AE2020Spring/.git/objects/51/d2387e1cf5dd1d0a5434bc6515b51f62a14030' (3,955)
+2020-06-15 14:53:53: Copy New 'L:/Github/spring/.git/objects/52/12bbf8235887aed795238c15da1eb87fbb67fc' -> 'K:/Website backup/AE2020Spring/.git/objects/52/12bbf8235887aed795238c15da1eb87fbb67fc' (6,394)
+2020-06-15 14:53:53: Copy New 'L:/Github/spring/.git/objects/53/d7203837165543897931d456504d83485bd37a' -> 'K:/Website backup/AE2020Spring/.git/objects/53/d7203837165543897931d456504d83485bd37a' (2,939)
+2020-06-15 14:53:53: Copy New 'L:/Github/spring/.git/objects/54/e66f0c19ea2a6c1248d3665606ae2b223b8b4e' -> 'K:/Website backup/AE2020Spring/.git/objects/54/e66f0c19ea2a6c1248d3665606ae2b223b8b4e' (646)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/56/8a2db8cde852246bd7e8abb34909abfcbfa44d' -> 'K:/Website backup/AE2020Spring/.git/objects/56/8a2db8cde852246bd7e8abb34909abfcbfa44d' (6,482)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/57/620aaf6e2170e7a8fc1328f866bc5ab923e494' -> 'K:/Website backup/AE2020Spring/.git/objects/57/620aaf6e2170e7a8fc1328f866bc5ab923e494' (2,385)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/57/96581be6440e67298c0af3fa7e3cdf4f6a170a' -> 'K:/Website backup/AE2020Spring/.git/objects/57/96581be6440e67298c0af3fa7e3cdf4f6a170a' (237)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/58/3dc336a34d96c56f34b2118eb49ce09c0c6a4b' -> 'K:/Website backup/AE2020Spring/.git/objects/58/3dc336a34d96c56f34b2118eb49ce09c0c6a4b' (2,391)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/58/b43c4b3a902ed19ed6bf16f95d599822e09a0d' -> 'K:/Website backup/AE2020Spring/.git/objects/58/b43c4b3a902ed19ed6bf16f95d599822e09a0d' (593)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/59/bec3d023a31a99f58de8938251f4bdffc6cb5c' -> 'K:/Website backup/AE2020Spring/.git/objects/59/bec3d023a31a99f58de8938251f4bdffc6cb5c' (634)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/5a/43651a8faabdda424d784d21fba737995a7358' -> 'K:/Website backup/AE2020Spring/.git/objects/5a/43651a8faabdda424d784d21fba737995a7358' (725)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/5a/9c4ebf90569c71423cfb189c6936e41d599741' -> 'K:/Website backup/AE2020Spring/.git/objects/5a/9c4ebf90569c71423cfb189c6936e41d599741' (158)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/5c/60c51fb5e9d7013dfc6305c0a8ba573bd0ec9a' -> 'K:/Website backup/AE2020Spring/.git/objects/5c/60c51fb5e9d7013dfc6305c0a8ba573bd0ec9a' (646)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/5e/bd8a75b7e6b4de69789765ccf7fa5fe1c85c7d' -> 'K:/Website backup/AE2020Spring/.git/objects/5e/bd8a75b7e6b4de69789765ccf7fa5fe1c85c7d' (404)
+2020-06-15 14:53:54: Copy New 'L:/Github/spring/.git/objects/5f/573a58a8f54ae34dadd8ea66a08fda54f0e347' -> 'K:/Website backup/AE2020Spring/.git/objects/5f/573a58a8f54ae34dadd8ea66a08fda54f0e347' (617)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/5f/ba4f5a2af3f63231571582d82c1604afd1614a' -> 'K:/Website backup/AE2020Spring/.git/objects/5f/ba4f5a2af3f63231571582d82c1604afd1614a' (645)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/61/12a7cf49212e15c65ab21e485ad4a528ec6653' -> 'K:/Website backup/AE2020Spring/.git/objects/61/12a7cf49212e15c65ab21e485ad4a528ec6653' (182)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/61/797a7efc12025f0bdd3fdddbf5014b6bfd779b' -> 'K:/Website backup/AE2020Spring/.git/objects/61/797a7efc12025f0bdd3fdddbf5014b6bfd779b' (167)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/61/edf15f94c8625cbc3969ff2b5b96bff7840098' -> 'K:/Website backup/AE2020Spring/.git/objects/61/edf15f94c8625cbc3969ff2b5b96bff7840098' (3,095)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/62/deafc66560490d9a79aab3a96af33e255bd644' -> 'K:/Website backup/AE2020Spring/.git/objects/62/deafc66560490d9a79aab3a96af33e255bd644' (617)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/63/7baceb8bc1b117ec789a907e33556312413441' -> 'K:/Website backup/AE2020Spring/.git/objects/63/7baceb8bc1b117ec789a907e33556312413441' (619)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/64/936d269bbaec870e4db70ccc32f5d629249ed5' -> 'K:/Website backup/AE2020Spring/.git/objects/64/936d269bbaec870e4db70ccc32f5d629249ed5' (6,459)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/64/bb0f202aeeaaa2d2be94ee46cdbe9e5f9bdce4' -> 'K:/Website backup/AE2020Spring/.git/objects/64/bb0f202aeeaaa2d2be94ee46cdbe9e5f9bdce4' (170)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/65/8bbf5ee1328a73c59b4df29e3e5d573bf88bce' -> 'K:/Website backup/AE2020Spring/.git/objects/65/8bbf5ee1328a73c59b4df29e3e5d573bf88bce' (647)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/66/3b2d62d109ab3704dd255ee3f3925b8a5967ac' -> 'K:/Website backup/AE2020Spring/.git/objects/66/3b2d62d109ab3704dd255ee3f3925b8a5967ac' (2,455)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/66/6711d9e60669206317282c6702d226c1a13010' -> 'K:/Website backup/AE2020Spring/.git/objects/66/6711d9e60669206317282c6702d226c1a13010' (177)
+2020-06-15 14:53:55: Copy New 'L:/Github/spring/.git/objects/66/6fa0cc244a8286c6e0ee2df25b91763d244068' -> 'K:/Website backup/AE2020Spring/.git/objects/66/6fa0cc244a8286c6e0ee2df25b91763d244068' (646)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/68/39206f9af88e826a9a82219fbce6ed8b4e1618' -> 'K:/Website backup/AE2020Spring/.git/objects/68/39206f9af88e826a9a82219fbce6ed8b4e1618' (646)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/68/73dc2a5ca62c732e7e37c8456026c5a0d5e3cf' -> 'K:/Website backup/AE2020Spring/.git/objects/68/73dc2a5ca62c732e7e37c8456026c5a0d5e3cf' (511)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/68/c1c69fc77040e4d2a0ab0f2be809824912c595' -> 'K:/Website backup/AE2020Spring/.git/objects/68/c1c69fc77040e4d2a0ab0f2be809824912c595' (5,894)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/68/f5247838d06ac6c12555848c83b4c3a65708ce' -> 'K:/Website backup/AE2020Spring/.git/objects/68/f5247838d06ac6c12555848c83b4c3a65708ce' (2,419)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/69/48692ac5454b58f96cad7c8cd44091fda593d2' -> 'K:/Website backup/AE2020Spring/.git/objects/69/48692ac5454b58f96cad7c8cd44091fda593d2' (672)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/69/71c65688ef3dc31abc721ed38a996043b019ee' -> 'K:/Website backup/AE2020Spring/.git/objects/69/71c65688ef3dc31abc721ed38a996043b019ee' (646)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/6b/beed7ee5b256a3262dc7b39486076c4c18c991' -> 'K:/Website backup/AE2020Spring/.git/objects/6b/beed7ee5b256a3262dc7b39486076c4c18c991' (646)
+2020-06-15 14:53:56: Copy New 'L:/Github/spring/.git/objects/6c/e47a25fabf513eab393b38c0871d5af1c0fb44' -> 'K:/Website backup/AE2020Spring/.git/objects/6c/e47a25fabf513eab393b38c0871d5af1c0fb44' (2,390)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/6d/2698b483d57449db7d448835bdcd4db689c41f' -> 'K:/Website backup/AE2020Spring/.git/objects/6d/2698b483d57449db7d448835bdcd4db689c41f' (7,919)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/6d/6eef000ad5d20f1cf3d38032d16198b32d4bf0' -> 'K:/Website backup/AE2020Spring/.git/objects/6d/6eef000ad5d20f1cf3d38032d16198b32d4bf0' (173)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/6e/7c14ec37b74997b4eafc7a5b290969f21ed75f' -> 'K:/Website backup/AE2020Spring/.git/objects/6e/7c14ec37b74997b4eafc7a5b290969f21ed75f' (176)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/6e/8a421125c406636e1f0d6df7895958a2d1ec36' -> 'K:/Website backup/AE2020Spring/.git/objects/6e/8a421125c406636e1f0d6df7895958a2d1ec36' (3,925)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/6f/a1b69c52ddafed4bba580a688012a27f0222d4' -> 'K:/Website backup/AE2020Spring/.git/objects/6f/a1b69c52ddafed4bba580a688012a27f0222d4' (646)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/70/71e08bd065962f29ae7972d2ee085712c6d50e' -> 'K:/Website backup/AE2020Spring/.git/objects/70/71e08bd065962f29ae7972d2ee085712c6d50e' (705)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/71/4ca29403ff2cdaae942a251c5107e77d289337' -> 'K:/Website backup/AE2020Spring/.git/objects/71/4ca29403ff2cdaae942a251c5107e77d289337' (645)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/71/ea8d7cea580c74e6608eccecc951d7f12392c5' -> 'K:/Website backup/AE2020Spring/.git/objects/71/ea8d7cea580c74e6608eccecc951d7f12392c5' (7,765)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/72/1ebb7ff63c9d6de097de8ee569626a793aec12' -> 'K:/Website backup/AE2020Spring/.git/objects/72/1ebb7ff63c9d6de097de8ee569626a793aec12' (5,897)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/72/31ff65d31f5e327b46f96518a4661a5ecc78cf' -> 'K:/Website backup/AE2020Spring/.git/objects/72/31ff65d31f5e327b46f96518a4661a5ecc78cf' (2,801)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/72/e14e9fb97536a432477150620c956a4315a0a1' -> 'K:/Website backup/AE2020Spring/.git/objects/72/e14e9fb97536a432477150620c956a4315a0a1' (619)
+2020-06-15 14:53:57: Copy New 'L:/Github/spring/.git/objects/73/564c3851d9fbf1580593e85f7d7e18b8b2ac26' -> 'K:/Website backup/AE2020Spring/.git/objects/73/564c3851d9fbf1580593e85f7d7e18b8b2ac26' (646)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/74/6bf01cfb5bdde8c255e0678676f31a47260fd5' -> 'K:/Website backup/AE2020Spring/.git/objects/74/6bf01cfb5bdde8c255e0678676f31a47260fd5' (349)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/74/e6a2e5bdf961c01ae6ae186e83202d7476be95' -> 'K:/Website backup/AE2020Spring/.git/objects/74/e6a2e5bdf961c01ae6ae186e83202d7476be95' (171)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/76/19b9ed33012c400a47b6c01cf38264a54f2819' -> 'K:/Website backup/AE2020Spring/.git/objects/76/19b9ed33012c400a47b6c01cf38264a54f2819' (2,744)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/77/32187f4b667487ab13889253dd4b0561e77ba6' -> 'K:/Website backup/AE2020Spring/.git/objects/77/32187f4b667487ab13889253dd4b0561e77ba6' (7,491)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/77/ab4776ebf807b21398e4f75fff3f4b9a5cda41' -> 'K:/Website backup/AE2020Spring/.git/objects/77/ab4776ebf807b21398e4f75fff3f4b9a5cda41' (168)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/77/f838afde8eb65e05fad7e7a27206af1078410e' -> 'K:/Website backup/AE2020Spring/.git/objects/77/f838afde8eb65e05fad7e7a27206af1078410e' (159)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/78/23d5a3fc23570b69e71f7fc45c806062c63371' -> 'K:/Website backup/AE2020Spring/.git/objects/78/23d5a3fc23570b69e71f7fc45c806062c63371' (158)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/78/62133aedf0611b33e15b67aaff28b76368a375' -> 'K:/Website backup/AE2020Spring/.git/objects/78/62133aedf0611b33e15b67aaff28b76368a375' (504)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/79/844362d8a044b25a83bd4ee4d65a498d05b234' -> 'K:/Website backup/AE2020Spring/.git/objects/79/844362d8a044b25a83bd4ee4d65a498d05b234' (593)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/79/b8929688ea03e5b45d3f78a32431231bc3a415' -> 'K:/Website backup/AE2020Spring/.git/objects/79/b8929688ea03e5b45d3f78a32431231bc3a415' (330)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/7a/163dd5bf312efa83c314391990693a9a65906f' -> 'K:/Website backup/AE2020Spring/.git/objects/7a/163dd5bf312efa83c314391990693a9a65906f' (725)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/7a/2f54bcdb849ed7fe8f2a90930cc3d16f3c44ff' -> 'K:/Website backup/AE2020Spring/.git/objects/7a/2f54bcdb849ed7fe8f2a90930cc3d16f3c44ff' (238)
+2020-06-15 14:53:58: Copy New 'L:/Github/spring/.git/objects/7a/7776e3caa4a330346f933e87e097b1e1932ca1' -> 'K:/Website backup/AE2020Spring/.git/objects/7a/7776e3caa4a330346f933e87e097b1e1932ca1' (646)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7b/d5a0d5d2acf89522866ee86734484b123b9e60' -> 'K:/Website backup/AE2020Spring/.git/objects/7b/d5a0d5d2acf89522866ee86734484b123b9e60' (646)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7c/22ac84a8dc9add8b1338a052f2bc3c0f2e4c27' -> 'K:/Website backup/AE2020Spring/.git/objects/7c/22ac84a8dc9add8b1338a052f2bc3c0f2e4c27' (645)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7c/31f125b27a075f637fc39604280bdad730cd4e' -> 'K:/Website backup/AE2020Spring/.git/objects/7c/31f125b27a075f637fc39604280bdad730cd4e' (2,714)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7c/6e777341d85f0b11d3d7ee85bd7dd6326fe386' -> 'K:/Website backup/AE2020Spring/.git/objects/7c/6e777341d85f0b11d3d7ee85bd7dd6326fe386' (592)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7d/944f5cc21dea2e786251fdd1739fc4e48ad5b3' -> 'K:/Website backup/AE2020Spring/.git/objects/7d/944f5cc21dea2e786251fdd1739fc4e48ad5b3' (2,706)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7e/ddfbb97da3ef77ffaebcf7c969eb887f92b79c' -> 'K:/Website backup/AE2020Spring/.git/objects/7e/ddfbb97da3ef77ffaebcf7c969eb887f92b79c' (2,635)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7e/e1511cdab0cd7fd74f98a7b90b364b48e78e11' -> 'K:/Website backup/AE2020Spring/.git/objects/7e/e1511cdab0cd7fd74f98a7b90b364b48e78e11' (170)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7e/fed9d30648e392d981868ae2ebbe8580de478d' -> 'K:/Website backup/AE2020Spring/.git/objects/7e/fed9d30648e392d981868ae2ebbe8580de478d' (3,116)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/7f/62be89f0dbfb976ee189f2e8ba2a3afa833ba3' -> 'K:/Website backup/AE2020Spring/.git/objects/7f/62be89f0dbfb976ee189f2e8ba2a3afa833ba3' (2,422)
+2020-06-15 14:53:59: Copy New 'L:/Github/spring/.git/objects/80/2114f3d594601881f49784d20288e5f7d5dc4d' -> 'K:/Website backup/AE2020Spring/.git/objects/80/2114f3d594601881f49784d20288e5f7d5dc4d' (166)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/80/41e0025dcf55a9971a923c11e80a01b5a97308' -> 'K:/Website backup/AE2020Spring/.git/objects/80/41e0025dcf55a9971a923c11e80a01b5a97308' (2,333)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/81/8dc8aba015b7aaf446a5f6a26dc2c5188fa098' -> 'K:/Website backup/AE2020Spring/.git/objects/81/8dc8aba015b7aaf446a5f6a26dc2c5188fa098' (509)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/81/d03c3a6bbd20d037bad8e11108dff6029b84f0' -> 'K:/Website backup/AE2020Spring/.git/objects/81/d03c3a6bbd20d037bad8e11108dff6029b84f0' (593)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/82/407f8dd6793a72fc0d6a8cc4e981f63cb682b3' -> 'K:/Website backup/AE2020Spring/.git/objects/82/407f8dd6793a72fc0d6a8cc4e981f63cb682b3' (376)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/82/5d7756bb8c41d19aa6c982c447f8653a96df93' -> 'K:/Website backup/AE2020Spring/.git/objects/82/5d7756bb8c41d19aa6c982c447f8653a96df93' (646)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/82/6147b79fb7906e2262c366d48d4d5413fdd4dc' -> 'K:/Website backup/AE2020Spring/.git/objects/82/6147b79fb7906e2262c366d48d4d5413fdd4dc' (6,200)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/84/3c4ee90aa4cd79414ca0b1e5dc11a4b34f795b' -> 'K:/Website backup/AE2020Spring/.git/objects/84/3c4ee90aa4cd79414ca0b1e5dc11a4b34f795b' (328)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/86/338a8fd4c34de5bebe27ff7d90c3e1ea8c3f5d' -> 'K:/Website backup/AE2020Spring/.git/objects/86/338a8fd4c34de5bebe27ff7d90c3e1ea8c3f5d' (237)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/87/57aa8ee29199560655efca01a6f0ea891e02b2' -> 'K:/Website backup/AE2020Spring/.git/objects/87/57aa8ee29199560655efca01a6f0ea891e02b2' (292)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/87/784fb861017bc9710c025485fdb872a7084058' -> 'K:/Website backup/AE2020Spring/.git/objects/87/784fb861017bc9710c025485fdb872a7084058' (594)
+2020-06-15 14:54:00: Copy New 'L:/Github/spring/.git/objects/87/cb111de4a8cb8993b7fe9f6d112ff138e84af7' -> 'K:/Website backup/AE2020Spring/.git/objects/87/cb111de4a8cb8993b7fe9f6d112ff138e84af7' (647)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8a/7c21230cf82c2324e2da29fd314a666f4178e6' -> 'K:/Website backup/AE2020Spring/.git/objects/8a/7c21230cf82c2324e2da29fd314a666f4178e6' (158)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8a/cbec9d04718fc285e574ca71256a376c507dc3' -> 'K:/Website backup/AE2020Spring/.git/objects/8a/cbec9d04718fc285e574ca71256a376c507dc3' (3,783)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8b/2d1eea71146b3b637532079d7bdb1d84c67e38' -> 'K:/Website backup/AE2020Spring/.git/objects/8b/2d1eea71146b3b637532079d7bdb1d84c67e38' (177)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8c/41fdebe0cd63ff99a423748d9aa0c9a5492a18' -> 'K:/Website backup/AE2020Spring/.git/objects/8c/41fdebe0cd63ff99a423748d9aa0c9a5492a18' (159)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8c/422c006cc584ba74d0ff492afbe084f68116e6' -> 'K:/Website backup/AE2020Spring/.git/objects/8c/422c006cc584ba74d0ff492afbe084f68116e6' (593)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8d/c73131ec2f67301119f73e469add8f39911cdd' -> 'K:/Website backup/AE2020Spring/.git/objects/8d/c73131ec2f67301119f73e469add8f39911cdd' (170)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/8f/d1385ce2f4bf9b86d5cfee86f8b068a4dffe3d' -> 'K:/Website backup/AE2020Spring/.git/objects/8f/d1385ce2f4bf9b86d5cfee86f8b068a4dffe3d' (167)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/90/121785809d26ed1a81c786db2f9412f2c452b2' -> 'K:/Website backup/AE2020Spring/.git/objects/90/121785809d26ed1a81c786db2f9412f2c452b2' (167)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/91/1e29d581a060422a199a51d8d57d71320f1f0e' -> 'K:/Website backup/AE2020Spring/.git/objects/91/1e29d581a060422a199a51d8d57d71320f1f0e' (168)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/92/2565c04d310d7f4e4a9d4fc6a33441c646db6d' -> 'K:/Website backup/AE2020Spring/.git/objects/92/2565c04d310d7f4e4a9d4fc6a33441c646db6d' (433)
+2020-06-15 14:54:01: Copy New 'L:/Github/spring/.git/objects/93/8474e2fca3fa196f6d3001bb9941ddb24297f7' -> 'K:/Website backup/AE2020Spring/.git/objects/93/8474e2fca3fa196f6d3001bb9941ddb24297f7' (646)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/95/d7d6e9892d4be34aabdc2f6ee5856ca52a499e' -> 'K:/Website backup/AE2020Spring/.git/objects/95/d7d6e9892d4be34aabdc2f6ee5856ca52a499e' (57)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/97/605599cecb80f3a2c6126b229452243a0394fe' -> 'K:/Website backup/AE2020Spring/.git/objects/97/605599cecb80f3a2c6126b229452243a0394fe' (158)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/98/11461aebb33b54e0513c3a03b76897461a90aa' -> 'K:/Website backup/AE2020Spring/.git/objects/98/11461aebb33b54e0513c3a03b76897461a90aa' (168)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/99/d87dd556b492df6ae7a431af925f8d8a86b51e' -> 'K:/Website backup/AE2020Spring/.git/objects/99/d87dd556b492df6ae7a431af925f8d8a86b51e' (7,518)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/9d/acb7fc61697a12955b779fd001e547116aeb9a' -> 'K:/Website backup/AE2020Spring/.git/objects/9d/acb7fc61697a12955b779fd001e547116aeb9a' (159)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/9e/037b6978140d98d52859dd83f163bcdad101a1' -> 'K:/Website backup/AE2020Spring/.git/objects/9e/037b6978140d98d52859dd83f163bcdad101a1' (7,850)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/9e/4ed43752c4cc4031ad28a2f7ef51a84dcb28c1' -> 'K:/Website backup/AE2020Spring/.git/objects/9e/4ed43752c4cc4031ad28a2f7ef51a84dcb28c1' (673)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/9e/7328703e89ab37c1059e9a198ca962198254f1' -> 'K:/Website backup/AE2020Spring/.git/objects/9e/7328703e89ab37c1059e9a198ca962198254f1' (725)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/9e/9868cae1a941969d02565c416d67e4f99169b4' -> 'K:/Website backup/AE2020Spring/.git/objects/9e/9868cae1a941969d02565c416d67e4f99169b4' (2,411)
+2020-06-15 14:54:02: Copy New 'L:/Github/spring/.git/objects/9f/4c73e325b3c71125013f08a33c9dca36e93e25' -> 'K:/Website backup/AE2020Spring/.git/objects/9f/4c73e325b3c71125013f08a33c9dca36e93e25' (3,116)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a0/144421db22a5492a4ec6afa5c41973835b28c0' -> 'K:/Website backup/AE2020Spring/.git/objects/a0/144421db22a5492a4ec6afa5c41973835b28c0' (3,083)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a0/4bd90576d8adce816a0b1c1b80db78eb95f43d' -> 'K:/Website backup/AE2020Spring/.git/objects/a0/4bd90576d8adce816a0b1c1b80db78eb95f43d' (177)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a0/f9d5d70cda71070462667267093cd710fbae67' -> 'K:/Website backup/AE2020Spring/.git/objects/a0/f9d5d70cda71070462667267093cd710fbae67' (178)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a1/3ebf6750dc32a5746eb6dc866f8b4b9d4fac05' -> 'K:/Website backup/AE2020Spring/.git/objects/a1/3ebf6750dc32a5746eb6dc866f8b4b9d4fac05' (173)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a2/d54e3272e92b93a76c79a5f792c2cff0f463ba' -> 'K:/Website backup/AE2020Spring/.git/objects/a2/d54e3272e92b93a76c79a5f792c2cff0f463ba' (161)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a3/e41bcb165ef3ea04a2365169b91e2d7ab2d146' -> 'K:/Website backup/AE2020Spring/.git/objects/a3/e41bcb165ef3ea04a2365169b91e2d7ab2d146' (672)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a4/3d0219bf17e2dbd7b2dc6c4ed329b95bb6ecde' -> 'K:/Website backup/AE2020Spring/.git/objects/a4/3d0219bf17e2dbd7b2dc6c4ed329b95bb6ecde' (646)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a4/3ff79b82529b4e54a13968204342daa2a5f74d' -> 'K:/Website backup/AE2020Spring/.git/objects/a4/3ff79b82529b4e54a13968204342daa2a5f74d' (57)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a4/904ef141355798a6e8d78bc3b518d9d5372c81' -> 'K:/Website backup/AE2020Spring/.git/objects/a4/904ef141355798a6e8d78bc3b518d9d5372c81' (178)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a4/90962ad876a83af1b87f411e4bd63bc7d7f010' -> 'K:/Website backup/AE2020Spring/.git/objects/a4/90962ad876a83af1b87f411e4bd63bc7d7f010' (157)
+2020-06-15 14:54:03: Copy New 'L:/Github/spring/.git/objects/a5/b53fc5df698bd20268b62f9721c799572b8c1a' -> 'K:/Website backup/AE2020Spring/.git/objects/a5/b53fc5df698bd20268b62f9721c799572b8c1a' (3,747)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a6/1965c18e35ed06e21dad497680aa2ff23def46' -> 'K:/Website backup/AE2020Spring/.git/objects/a6/1965c18e35ed06e21dad497680aa2ff23def46' (2,384)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a6/1fb50610bc548ceae61312cf0e2811bfe1c9d1' -> 'K:/Website backup/AE2020Spring/.git/objects/a6/1fb50610bc548ceae61312cf0e2811bfe1c9d1' (234)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a6/3ed6d69dec029fb121c8e86b1f5d2814090151' -> 'K:/Website backup/AE2020Spring/.git/objects/a6/3ed6d69dec029fb121c8e86b1f5d2814090151' (646)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a7/199327c2be2e87a4a6cefef273f6dc94c0bed8' -> 'K:/Website backup/AE2020Spring/.git/objects/a7/199327c2be2e87a4a6cefef273f6dc94c0bed8' (3,096)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a7/a4b1d44a93a282f8e76160dbce3946401b5fe7' -> 'K:/Website backup/AE2020Spring/.git/objects/a7/a4b1d44a93a282f8e76160dbce3946401b5fe7' (166)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a9/0582f4a76a37375f27088efaf875bce229b17e' -> 'K:/Website backup/AE2020Spring/.git/objects/a9/0582f4a76a37375f27088efaf875bce229b17e' (3,599)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/a9/b592d7bd356c569560185d688490bf8fb6db87' -> 'K:/Website backup/AE2020Spring/.git/objects/a9/b592d7bd356c569560185d688490bf8fb6db87' (2,715)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/aa/e463cb9771e7aa2db766b92e0fcd75a5c51cee' -> 'K:/Website backup/AE2020Spring/.git/objects/aa/e463cb9771e7aa2db766b92e0fcd75a5c51cee' (3,420)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/ac/1440bad01a1be0e9cb39973176e89cf257b745' -> 'K:/Website backup/AE2020Spring/.git/objects/ac/1440bad01a1be0e9cb39973176e89cf257b745' (7,423)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/ac/3d68107b6df54bdfe79bbb448ef528ca0543d7' -> 'K:/Website backup/AE2020Spring/.git/objects/ac/3d68107b6df54bdfe79bbb448ef528ca0543d7' (3,083)
+2020-06-15 14:54:04: Copy New 'L:/Github/spring/.git/objects/ac/55694804fc044a097746493022a9ee1812bc67' -> 'K:/Website backup/AE2020Spring/.git/objects/ac/55694804fc044a097746493022a9ee1812bc67' (2,751)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/ad/12e702d849216afd68785833694b6d051a8cd9' -> 'K:/Website backup/AE2020Spring/.git/objects/ad/12e702d849216afd68785833694b6d051a8cd9' (6,985)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/ad/efbc75dd37d94f504e143ed55b761992f3f8ab' -> 'K:/Website backup/AE2020Spring/.git/objects/ad/efbc75dd37d94f504e143ed55b761992f3f8ab' (157)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b0/722824df9a2d9b1385f4dcfa0af6b8c4f708fb' -> 'K:/Website backup/AE2020Spring/.git/objects/b0/722824df9a2d9b1385f4dcfa0af6b8c4f708fb' (6,373)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b2/0fd7983c75aaf394bba8fa8a17a131c3dd33df' -> 'K:/Website backup/AE2020Spring/.git/objects/b2/0fd7983c75aaf394bba8fa8a17a131c3dd33df' (3,955)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b3/1be2b6533dd877c91ebdcede1699df95b156ac' -> 'K:/Website backup/AE2020Spring/.git/objects/b3/1be2b6533dd877c91ebdcede1699df95b156ac' (594)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b3/cdb3f771c2ec792d1b91ed2296465338e7674b' -> 'K:/Website backup/AE2020Spring/.git/objects/b3/cdb3f771c2ec792d1b91ed2296465338e7674b' (173)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b3/db77c32662a9dca21464adda8a1e55ed3f1fec' -> 'K:/Website backup/AE2020Spring/.git/objects/b3/db77c32662a9dca21464adda8a1e55ed3f1fec' (673)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b4/9d965a898fbd5655065627c1c6233a9ecdaf3b' -> 'K:/Website backup/AE2020Spring/.git/objects/b4/9d965a898fbd5655065627c1c6233a9ecdaf3b' (2,325)
+2020-06-15 14:54:05: Copy New 'L:/Github/spring/.git/objects/b5/7fe3f23ab22bf6958a9e7cb5f5b99bb2ba3669' -> 'K:/Website backup/AE2020Spring/.git/objects/b5/7fe3f23ab22bf6958a9e7cb5f5b99bb2ba3669' (2,381)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b5/c39c57cf12b1864cf50a9f15bafcc4fb65b711' -> 'K:/Website backup/AE2020Spring/.git/objects/b5/c39c57cf12b1864cf50a9f15bafcc4fb65b711' (6,433)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b5/defbb66a7bca855c0a7116daf5576be03b1887' -> 'K:/Website backup/AE2020Spring/.git/objects/b5/defbb66a7bca855c0a7116daf5576be03b1887' (3,875)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b6/b147db91c7e1e3c1fe014f0196b78c4021b1bd' -> 'K:/Website backup/AE2020Spring/.git/objects/b6/b147db91c7e1e3c1fe014f0196b78c4021b1bd' (158)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b6/e2dca1384bc589622685e0b15061fd6b670bdb' -> 'K:/Website backup/AE2020Spring/.git/objects/b6/e2dca1384bc589622685e0b15061fd6b670bdb' (176)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b7/cc25a3dcbf8d94fbf28ed601d09ba61d0a213b' -> 'K:/Website backup/AE2020Spring/.git/objects/b7/cc25a3dcbf8d94fbf28ed601d09ba61d0a213b' (173)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b8/bd8f895dceabace5d0e19b439bbf0429a9ec7d' -> 'K:/Website backup/AE2020Spring/.git/objects/b8/bd8f895dceabace5d0e19b439bbf0429a9ec7d' (2,380)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/b9/0d297b1ffc9a4f29056b025f7b982afb9cdf81' -> 'K:/Website backup/AE2020Spring/.git/objects/b9/0d297b1ffc9a4f29056b025f7b982afb9cdf81' (617)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/ba/70bebf856241711f4b7bd9988ceff77d60e7be' -> 'K:/Website backup/AE2020Spring/.git/objects/ba/70bebf856241711f4b7bd9988ceff77d60e7be' (432)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/ba/fcb989d969ce588b017e41587ee5b4fed00f83' -> 'K:/Website backup/AE2020Spring/.git/objects/ba/fcb989d969ce588b017e41587ee5b4fed00f83' (2,182)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/bc/6876b2c37541c580b65bf95547fd9feb4d3796' -> 'K:/Website backup/AE2020Spring/.git/objects/bc/6876b2c37541c580b65bf95547fd9feb4d3796' (3,566)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/bc/c22648029896cd9b6db74c7b16febebf47374c' -> 'K:/Website backup/AE2020Spring/.git/objects/bc/c22648029896cd9b6db74c7b16febebf47374c' (7,601)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/bc/fba644994d7928220c5d1ebcf7d085601bb01e' -> 'K:/Website backup/AE2020Spring/.git/objects/bc/fba644994d7928220c5d1ebcf7d085601bb01e' (158)
+2020-06-15 14:54:06: Copy New 'L:/Github/spring/.git/objects/bd/901e9ec942e9e1e5545784be080d74d0e87134' -> 'K:/Website backup/AE2020Spring/.git/objects/bd/901e9ec942e9e1e5545784be080d74d0e87134' (2,384)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/be/5b5e95b6a9764ed906314cfe2a3c69d37d378d' -> 'K:/Website backup/AE2020Spring/.git/objects/be/5b5e95b6a9764ed906314cfe2a3c69d37d378d' (302)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c0/4fd065ff06d6d4df96378f5e39a6d8c5c21395' -> 'K:/Website backup/AE2020Spring/.git/objects/c0/4fd065ff06d6d4df96378f5e39a6d8c5c21395' (2,702)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c2/de1d546f2564cd469bda3adea5ca638cd8d261' -> 'K:/Website backup/AE2020Spring/.git/objects/c2/de1d546f2564cd469bda3adea5ca638cd8d261' (178)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c3/36a244e12522813ca8b644b34bafa2d746fff8' -> 'K:/Website backup/AE2020Spring/.git/objects/c3/36a244e12522813ca8b644b34bafa2d746fff8' (159)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c3/5b138f54e44ed0bf85fc642048e902b558d008' -> 'K:/Website backup/AE2020Spring/.git/objects/c3/5b138f54e44ed0bf85fc642048e902b558d008' (6,077)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c4/049eb7e87dea208f22009a8eff8310f50da585' -> 'K:/Website backup/AE2020Spring/.git/objects/c4/049eb7e87dea208f22009a8eff8310f50da585' (672)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c4/08229c8e034b5fda9328649bc25f348d8cb975' -> 'K:/Website backup/AE2020Spring/.git/objects/c4/08229c8e034b5fda9328649bc25f348d8cb975' (174)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c4/575b2022ac7b463016ae93b6669229a4414031' -> 'K:/Website backup/AE2020Spring/.git/objects/c4/575b2022ac7b463016ae93b6669229a4414031' (618)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c5/3648d23970bc23b2aa8f36a18f2490a86bc689' -> 'K:/Website backup/AE2020Spring/.git/objects/c5/3648d23970bc23b2aa8f36a18f2490a86bc689' (158)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c6/0191903ea2a6a855e4f1831c4c4ff244aa886c' -> 'K:/Website backup/AE2020Spring/.git/objects/c6/0191903ea2a6a855e4f1831c4c4ff244aa886c' (645)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c7/0e2a819a6fa610fa96165c68dd9642a8feb102' -> 'K:/Website backup/AE2020Spring/.git/objects/c7/0e2a819a6fa610fa96165c68dd9642a8feb102' (646)
+2020-06-15 14:54:07: Copy New 'L:/Github/spring/.git/objects/c7/f7cb4fb214489bc50fb528226679dc2df115e8' -> 'K:/Website backup/AE2020Spring/.git/objects/c7/f7cb4fb214489bc50fb528226679dc2df115e8' (617)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/c8/21591aaa18888e5ecc8bd8fe5e96ca5d349705' -> 'K:/Website backup/AE2020Spring/.git/objects/c8/21591aaa18888e5ecc8bd8fe5e96ca5d349705' (6,338)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/c8/527d53f332a949ee371e9ff404c592671a323e' -> 'K:/Website backup/AE2020Spring/.git/objects/c8/527d53f332a949ee371e9ff404c592671a323e' (618)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/c8/898c5a840086b1beca82ca68c24a4deca26c96' -> 'K:/Website backup/AE2020Spring/.git/objects/c8/898c5a840086b1beca82ca68c24a4deca26c96' (169)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/c9/5e46e789b4cc72e4f2d176b1a2842cbc535d62' -> 'K:/Website backup/AE2020Spring/.git/objects/c9/5e46e789b4cc72e4f2d176b1a2842cbc535d62' (5,899)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/c9/d3c946b9153b44d7e9303dd7af57ec54fcc30e' -> 'K:/Website backup/AE2020Spring/.git/objects/c9/d3c946b9153b44d7e9303dd7af57ec54fcc30e' (245)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/ca/4554b6bafbf1c8f60777197f4077893567c152' -> 'K:/Website backup/AE2020Spring/.git/objects/ca/4554b6bafbf1c8f60777197f4077893567c152' (169)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/ca/57447b5fb826ef27d3a61e256628130e96a596' -> 'K:/Website backup/AE2020Spring/.git/objects/ca/57447b5fb826ef27d3a61e256628130e96a596' (7,430)
+2020-06-15 14:54:08: Copy New 'L:/Github/spring/.git/objects/ca/dc034687a413e0be3d282f4986f88e3d11cfe4' -> 'K:/Website backup/AE2020Spring/.git/objects/ca/dc034687a413e0be3d282f4986f88e3d11cfe4' (57)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/ca/e958ef451aeec44a9029bad53ee2582e70d07d' -> 'K:/Website backup/AE2020Spring/.git/objects/ca/e958ef451aeec44a9029bad53ee2582e70d07d' (6,315)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/cc/53f10344756a34bf9a4cc72622b6e3f53268e7' -> 'K:/Website backup/AE2020Spring/.git/objects/cc/53f10344756a34bf9a4cc72622b6e3f53268e7' (171)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/cd/68025262e842599e2989533014af04418a5233' -> 'K:/Website backup/AE2020Spring/.git/objects/cd/68025262e842599e2989533014af04418a5233' (432)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/cd/e9d56297c53125be3cad8869d72eb60e002856' -> 'K:/Website backup/AE2020Spring/.git/objects/cd/e9d56297c53125be3cad8869d72eb60e002856' (725)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/ce/7478d94f868bfeaabd48cddd429236d56bec64' -> 'K:/Website backup/AE2020Spring/.git/objects/ce/7478d94f868bfeaabd48cddd429236d56bec64' (2,298)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/ce/8a5182c5469b916ba61b2a3bf62590916fcb68' -> 'K:/Website backup/AE2020Spring/.git/objects/ce/8a5182c5469b916ba61b2a3bf62590916fcb68' (646)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/cf/023588e14475540e0678b487f0f63eebc77eb9' -> 'K:/Website backup/AE2020Spring/.git/objects/cf/023588e14475540e0678b487f0f63eebc77eb9' (166)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/cf/498e421deae7d630a1870ec5df74f1535cc54a' -> 'K:/Website backup/AE2020Spring/.git/objects/cf/498e421deae7d630a1870ec5df74f1535cc54a' (324)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/d0/f3f83fe51ea9e4b7bc8616acd518d31aba9f5e' -> 'K:/Website backup/AE2020Spring/.git/objects/d0/f3f83fe51ea9e4b7bc8616acd518d31aba9f5e' (158)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/d1/604e8784848f4e0aad9d1a5e76bc3796ca66ef' -> 'K:/Website backup/AE2020Spring/.git/objects/d1/604e8784848f4e0aad9d1a5e76bc3796ca66ef' (158)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/d4/ab7b5655299bc7ec2dc1744d7110dd3c3e8f09' -> 'K:/Website backup/AE2020Spring/.git/objects/d4/ab7b5655299bc7ec2dc1744d7110dd3c3e8f09' (725)
+2020-06-15 14:54:09: Copy New 'L:/Github/spring/.git/objects/d5/45c9497177c7a59c8c27d8c427f06c028c659e' -> 'K:/Website backup/AE2020Spring/.git/objects/d5/45c9497177c7a59c8c27d8c427f06c028c659e' (111)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/d7/996fcd0ddbbf59da7c12ff8527973aa3b30870' -> 'K:/Website backup/AE2020Spring/.git/objects/d7/996fcd0ddbbf59da7c12ff8527973aa3b30870' (646)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/d8/752d4eeaf37bb763f13f7b7e84d96b2152856b' -> 'K:/Website backup/AE2020Spring/.git/objects/d8/752d4eeaf37bb763f13f7b7e84d96b2152856b' (169)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/d9/5fd9bc5c1fe2d94f5d78c9e6159058c4a8455a' -> 'K:/Website backup/AE2020Spring/.git/objects/d9/5fd9bc5c1fe2d94f5d78c9e6159058c4a8455a' (159)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/db/32e7f7841609c37a4fd699285c4a828077e962' -> 'K:/Website backup/AE2020Spring/.git/objects/db/32e7f7841609c37a4fd699285c4a828077e962' (593)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/dc/5d4c0f2337fb620a58b5cbb2af46558eab4c36' -> 'K:/Website backup/AE2020Spring/.git/objects/dc/5d4c0f2337fb620a58b5cbb2af46558eab4c36' (7,517)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/de/86e34679055e03df71b502f223202842f9c4e5' -> 'K:/Website backup/AE2020Spring/.git/objects/de/86e34679055e03df71b502f223202842f9c4e5' (167)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/df/cc77c618d9ebe12465640009df6c51edf7c319' -> 'K:/Website backup/AE2020Spring/.git/objects/df/cc77c618d9ebe12465640009df6c51edf7c319' (646)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/e0/88637ca8c1bd1b020abd9af4b3ae6a0e49abf0' -> 'K:/Website backup/AE2020Spring/.git/objects/e0/88637ca8c1bd1b020abd9af4b3ae6a0e49abf0' (672)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/e0/d066a0853fcc60c577a7b325ab670f91911869' -> 'K:/Website backup/AE2020Spring/.git/objects/e0/d066a0853fcc60c577a7b325ab670f91911869' (645)
+2020-06-15 14:54:10: Copy New 'L:/Github/spring/.git/objects/e1/86291378f502c32ee22c1ca7e39b8bb5c6d169' -> 'K:/Website backup/AE2020Spring/.git/objects/e1/86291378f502c32ee22c1ca7e39b8bb5c6d169' (7,779)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e1/a22c264d46701a395fc3eefd69dd4078d183e9' -> 'K:/Website backup/AE2020Spring/.git/objects/e1/a22c264d46701a395fc3eefd69dd4078d183e9' (646)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e1/dc4bfc4f0007250ae53575f86be82fe50b6099' -> 'K:/Website backup/AE2020Spring/.git/objects/e1/dc4bfc4f0007250ae53575f86be82fe50b6099' (2,326)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e2/822b6c77903db57b733ac308f27f85fec43681' -> 'K:/Website backup/AE2020Spring/.git/objects/e2/822b6c77903db57b733ac308f27f85fec43681' (171)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e3/6f074144a6431e4e99aba5813fd35baee3a10b' -> 'K:/Website backup/AE2020Spring/.git/objects/e3/6f074144a6431e4e99aba5813fd35baee3a10b' (3,543)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e3/762a41c52997b1ff8207f74bee619c2163f016' -> 'K:/Website backup/AE2020Spring/.git/objects/e3/762a41c52997b1ff8207f74bee619c2163f016' (2,380)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e3/7674c73180b5f69a1ebc632498097889a733a2' -> 'K:/Website backup/AE2020Spring/.git/objects/e3/7674c73180b5f69a1ebc632498097889a733a2' (1,038)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e3/bb34dc3f1826e06522c2c16945f3412c847dd8' -> 'K:/Website backup/AE2020Spring/.git/objects/e3/bb34dc3f1826e06522c2c16945f3412c847dd8' (599)
+2020-06-15 14:54:11: Copy New 'L:/Github/spring/.git/objects/e4/8fadabf2a95b4aa10b6a0580cd8b6e8908b763' -> 'K:/Website backup/AE2020Spring/.git/objects/e4/8fadabf2a95b4aa10b6a0580cd8b6e8908b763' (2,300)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e5/502fdbf18f78bd63064cb10a473752d3efd740' -> 'K:/Website backup/AE2020Spring/.git/objects/e5/502fdbf18f78bd63064cb10a473752d3efd740' (2,364)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e5/58ffe0e6435908e4a72bfb4c6e185e354f15e1' -> 'K:/Website backup/AE2020Spring/.git/objects/e5/58ffe0e6435908e4a72bfb4c6e185e354f15e1' (6,312)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e7/8ca2ebed646c4979e200685e62675f11006238' -> 'K:/Website backup/AE2020Spring/.git/objects/e7/8ca2ebed646c4979e200685e62675f11006238' (177)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e8/396ad725ab6e280c4fe3ffb8a4b01c47965f62' -> 'K:/Website backup/AE2020Spring/.git/objects/e8/396ad725ab6e280c4fe3ffb8a4b01c47965f62' (179)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e8/ae68d5fd8bce94d0ecad7b5d95a762c77cb3f3' -> 'K:/Website backup/AE2020Spring/.git/objects/e8/ae68d5fd8bce94d0ecad7b5d95a762c77cb3f3' (170)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e9/18e94de9e85e51c0f98a42f583df68bc0748ae' -> 'K:/Website backup/AE2020Spring/.git/objects/e9/18e94de9e85e51c0f98a42f583df68bc0748ae' (167)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e9/7e89e2bd71642ef8f7c40d84fa494f38db7887' -> 'K:/Website backup/AE2020Spring/.git/objects/e9/7e89e2bd71642ef8f7c40d84fa494f38db7887' (7,781)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e9/af1bfa87f2817cf97133d6e68053cfa6054395' -> 'K:/Website backup/AE2020Spring/.git/objects/e9/af1bfa87f2817cf97133d6e68053cfa6054395' (403)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/e9/e688028ee9504e54641a62c11a2b52a92b547e' -> 'K:/Website backup/AE2020Spring/.git/objects/e9/e688028ee9504e54641a62c11a2b52a92b547e' (403)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/ea/525be05550d13975620d2851c40443283343d9' -> 'K:/Website backup/AE2020Spring/.git/objects/ea/525be05550d13975620d2851c40443283343d9' (2,323)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/eb/8c8b242264306ade51d781141a70fd4d83061e' -> 'K:/Website backup/AE2020Spring/.git/objects/eb/8c8b242264306ade51d781141a70fd4d83061e' (7,517)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/eb/ddfac233e65a23cd8a8414de24ffd025ae5f72' -> 'K:/Website backup/AE2020Spring/.git/objects/eb/ddfac233e65a23cd8a8414de24ffd025ae5f72' (3,086)
+2020-06-15 14:54:12: Copy New 'L:/Github/spring/.git/objects/ec/17c22c1fc1c4eaf605dd67f59597df2aa4a0b9' -> 'K:/Website backup/AE2020Spring/.git/objects/ec/17c22c1fc1c4eaf605dd67f59597df2aa4a0b9' (646)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/ed/dd1c4f9c5c9c58c242e46a44aab77696842496' -> 'K:/Website backup/AE2020Spring/.git/objects/ed/dd1c4f9c5c9c58c242e46a44aab77696842496' (2,383)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/ee/13f775d7ac741b129544c106946985e40f5db6' -> 'K:/Website backup/AE2020Spring/.git/objects/ee/13f775d7ac741b129544c106946985e40f5db6' (646)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/ef/89bdb561df014b43687a77961620affd3b649f' -> 'K:/Website backup/AE2020Spring/.git/objects/ef/89bdb561df014b43687a77961620affd3b649f' (165)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f0/26dbd5af3164786d78bc9ac262ca5e3e3333b7' -> 'K:/Website backup/AE2020Spring/.git/objects/f0/26dbd5af3164786d78bc9ac262ca5e3e3333b7' (164)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f0/82716f63c4003685bd743b171eeee8b04cd8eb' -> 'K:/Website backup/AE2020Spring/.git/objects/f0/82716f63c4003685bd743b171eeee8b04cd8eb' (376)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f0/bf85883db585fad515c6c0b48173d00c2ed99c' -> 'K:/Website backup/AE2020Spring/.git/objects/f0/bf85883db585fad515c6c0b48173d00c2ed99c' (172)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f1/1393c12b2576d88fd1aa17e36c85dde5873683' -> 'K:/Website backup/AE2020Spring/.git/objects/f1/1393c12b2576d88fd1aa17e36c85dde5873683' (3,599)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f1/af01cd7153adb9071e272fa4214fae0d69825d' -> 'K:/Website backup/AE2020Spring/.git/objects/f1/af01cd7153adb9071e272fa4214fae0d69825d' (618)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f1/bf862ad34a436c1f93a39f41d198246f0f17a0' -> 'K:/Website backup/AE2020Spring/.git/objects/f1/bf862ad34a436c1f93a39f41d198246f0f17a0' (7,526)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f1/e974929fd819b9a14ebdba98b6c4603750be95' -> 'K:/Website backup/AE2020Spring/.git/objects/f1/e974929fd819b9a14ebdba98b6c4603750be95' (3,720)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f2/2555e1d0816e0be1759ed1ef9d0b93c6be6cbd' -> 'K:/Website backup/AE2020Spring/.git/objects/f2/2555e1d0816e0be1759ed1ef9d0b93c6be6cbd' (725)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f2/e94ff546e85f39bc1117d81404c3f1d3eca799' -> 'K:/Website backup/AE2020Spring/.git/objects/f2/e94ff546e85f39bc1117d81404c3f1d3eca799' (158)
+2020-06-15 14:54:13: Copy New 'L:/Github/spring/.git/objects/f3/c7337fdc69921421819de70fc2affaf19e7ba1' -> 'K:/Website backup/AE2020Spring/.git/objects/f3/c7337fdc69921421819de70fc2affaf19e7ba1' (160)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f3/f13eab434c221dce8798dc5270e70d01ab06fe' -> 'K:/Website backup/AE2020Spring/.git/objects/f3/f13eab434c221dce8798dc5270e70d01ab06fe' (166)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f4/4feb95d605b023ebed47a1e16a1567ed6baef8' -> 'K:/Website backup/AE2020Spring/.git/objects/f4/4feb95d605b023ebed47a1e16a1567ed6baef8' (3,858)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f4/dcba4354a3f07a2ed8e4e7fff60544ad4458d3' -> 'K:/Website backup/AE2020Spring/.git/objects/f4/dcba4354a3f07a2ed8e4e7fff60544ad4458d3' (179)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f5/02af433e192f60c3aa82de87b017771644ad52' -> 'K:/Website backup/AE2020Spring/.git/objects/f5/02af433e192f60c3aa82de87b017771644ad52' (292)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f5/b4edde6e92fc2c641dc8093bab2b4d4cc595e3' -> 'K:/Website backup/AE2020Spring/.git/objects/f5/b4edde6e92fc2c641dc8093bab2b4d4cc595e3' (646)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f5/e9f0d2650b940f860779a3e2e7ea3347d159ae' -> 'K:/Website backup/AE2020Spring/.git/objects/f5/e9f0d2650b940f860779a3e2e7ea3347d159ae' (169)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f6/90f48918c2acc5d904f9e15d71b2bea3ccf6c2' -> 'K:/Website backup/AE2020Spring/.git/objects/f6/90f48918c2acc5d904f9e15d71b2bea3ccf6c2' (509)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f6/aeaba712f6cd85eae9363cd0a52979f1ec2098' -> 'K:/Website backup/AE2020Spring/.git/objects/f6/aeaba712f6cd85eae9363cd0a52979f1ec2098' (2,310)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f7/1150ec1b354e46da6e8fdc0e62cc7174e8a2e0' -> 'K:/Website backup/AE2020Spring/.git/objects/f7/1150ec1b354e46da6e8fdc0e62cc7174e8a2e0' (168)
+2020-06-15 14:54:14: Copy New 'L:/Github/spring/.git/objects/f7/2132b3a88ba9cec9419c64404404c75fae90a6' -> 'K:/Website backup/AE2020Spring/.git/objects/f7/2132b3a88ba9cec9419c64404404c75fae90a6' (646)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/f7/e9ad8ffff8ffdb9bcd537eeb1664b9dca2d248' -> 'K:/Website backup/AE2020Spring/.git/objects/f7/e9ad8ffff8ffdb9bcd537eeb1664b9dca2d248' (646)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/f8/4f1942b1d24137b4cd0314f45ed32a77f166ab' -> 'K:/Website backup/AE2020Spring/.git/objects/f8/4f1942b1d24137b4cd0314f45ed32a77f166ab' (592)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/f9/0caca4b691ef3424997aa028361c873aa95671' -> 'K:/Website backup/AE2020Spring/.git/objects/f9/0caca4b691ef3424997aa028361c873aa95671' (179)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/f9/eac628861d7b1c5cdc4167889d2d578e77a3ae' -> 'K:/Website backup/AE2020Spring/.git/objects/f9/eac628861d7b1c5cdc4167889d2d578e77a3ae' (7,849)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/f9/f89c6a7d318e916e28672c1386222e3435016a' -> 'K:/Website backup/AE2020Spring/.git/objects/f9/f89c6a7d318e916e28672c1386222e3435016a' (7,949)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fb/26fa9e5479315e91b9fd93db6f549353ad5af6' -> 'K:/Website backup/AE2020Spring/.git/objects/fb/26fa9e5479315e91b9fd93db6f549353ad5af6' (2,380)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fc/077c6fe2608093c6c1eb602c7b8cb19f83cc26' -> 'K:/Website backup/AE2020Spring/.git/objects/fc/077c6fe2608093c6c1eb602c7b8cb19f83cc26' (17,417)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fc/33fce8abb40baa4a27101c36cd1bb1b23084a3' -> 'K:/Website backup/AE2020Spring/.git/objects/fc/33fce8abb40baa4a27101c36cd1bb1b23084a3' (404)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fc/ab0ba4fa8d2cef47bf96686f425f582607e396' -> 'K:/Website backup/AE2020Spring/.git/objects/fc/ab0ba4fa8d2cef47bf96686f425f582607e396' (169)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fc/e3777f88efe89eccf96237565422582e52c7b8' -> 'K:/Website backup/AE2020Spring/.git/objects/fc/e3777f88efe89eccf96237565422582e52c7b8' (167)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fd/a084eb5db3b9c721ff62714a7bf969de299dbc' -> 'K:/Website backup/AE2020Spring/.git/objects/fd/a084eb5db3b9c721ff62714a7bf969de299dbc' (169)
+2020-06-15 14:54:15: Copy New 'L:/Github/spring/.git/objects/fe/670537cbffd926f0c3a7bca4de4d0e2b483f7f' -> 'K:/Website backup/AE2020Spring/.git/objects/fe/670537cbffd926f0c3a7bca4de4d0e2b483f7f' (646)
+2020-06-15 14:54:16: Copy New 'L:/Github/spring/.git/objects/ff/d4aebb3f5a9e50049bc6f34f8772c1264cf51b' -> 'K:/Website backup/AE2020Spring/.git/objects/ff/d4aebb3f5a9e50049bc6f34f8772c1264cf51b' (328)
+2020-06-15 14:54:16: Copy Over 'L:/Github/spring/.git/refs/heads/master' -> 'K:/Website backup/AE2020Spring/.git/refs/heads/master' (41)
+2020-06-15 14:54:16: Copy Over 'L:/Github/spring/.git/refs/remotes/origin/master' -> 'K:/Website backup/AE2020Spring/.git/refs/remotes/origin/master' (41)
+2020-06-15 14:54:16: Copy Over 'L:/Github/spring/classrooms.html' -> 'K:/Website backup/AE2020Spring/classrooms.html' (10,686)
+2020-06-15 14:54:16: Copy Over 'L:/Github/spring/css/style.css' -> 'K:/Website backup/AE2020Spring/css/style.css' (14,032)
+2020-06-15 14:54:16: Copy New 'L:/Github/spring/css/style2.css' -> 'K:/Website backup/AE2020Spring/css/style2.css' (14,038)
+2020-06-15 14:54:16: Copy New 'L:/Github/spring/css/tabs-green.css' -> 'K:/Website backup/AE2020Spring/css/tabs-green.css' (1,347)
+2020-06-15 14:54:16: Copy Over 'L:/Github/spring/css/tabs.css' -> 'K:/Website backup/AE2020Spring/css/tabs.css' (1,348)
+2020-06-15 14:54:16: Copy Over 'L:/Github/spring/css/ticker.css' -> 'K:/Website backup/AE2020Spring/css/ticker.css' (730)
+2020-06-15 14:54:16: Copy New 'L:/Github/spring/css/ticker2.css' -> 'K:/Website backup/AE2020Spring/css/ticker2.css' (727)
+2020-06-15 14:54:17: Copy Over 'L:/Github/spring/grades.html' -> 'K:/Website backup/AE2020Spring/grades.html' (9,689)
+2020-06-15 14:54:17: Copy New 'L:/Github/spring/img/block1test.jpg' -> 'K:/Website backup/AE2020Spring/img/block1test.jpg' (31,308)
+2020-06-15 14:54:17: Copy New 'L:/Github/spring/img/textbook-tabs.jpg' -> 'K:/Website backup/AE2020Spring/img/textbook-tabs.jpg' (3,246)
+2020-06-15 14:54:17: Copy New 'L:/Github/spring/index-week1.html' -> 'K:/Website backup/AE2020Spring/index-week1.html' (18,479)
+2020-06-15 14:54:17: Copy New 'L:/Github/spring/index-week2.html' -> 'K:/Website backup/AE2020Spring/index-week2.html' (22,199)
+2020-06-15 14:54:17: Copy New 'L:/Github/spring/index-week3.html' -> 'K:/Website backup/AE2020Spring/index-week3.html' (27,838)
+2020-06-15 14:54:17: Copy New 'L:/Github/spring/index-week4.html' -> 'K:/Website backup/AE2020Spring/index-week4.html' (30,246)
+2020-06-15 14:54:18: Copy New 'L:/Github/spring/index-week5.html' -> 'K:/Website backup/AE2020Spring/index-week5.html' (18,628)
+2020-06-15 14:54:18: Copy Over 'L:/Github/spring/index.html' -> 'K:/Website backup/AE2020Spring/index.html' (22,641)
+2020-06-15 14:54:18: Copy Over 'L:/Github/spring/message.html' -> 'K:/Website backup/AE2020Spring/message.html' (9,048)
+2020-06-15 14:54:18: Copy New 'L:/Github/spring/splitscreen/block-1-test-mon-1.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test-mon-1.html' (6,127)
+2020-06-15 14:54:18: Copy New 'L:/Github/spring/splitscreen/block-1-test-mon2.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test-mon2.html' (6,180)
+2020-06-15 14:54:18: Copy New 'L:/Github/spring/splitscreen/block-1-test-th-4.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test-th-4.html' (6,174)
+2020-06-15 14:54:18: Copy New 'L:/Github/spring/splitscreen/block-1-test-th3.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test-th3.html' (6,174)
+2020-06-15 14:54:18: Copy New 'L:/Github/spring/splitscreen/block-1-test-thurs-1.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test-thurs-1.html' (6,353)
+2020-06-15 14:54:19: Copy New 'L:/Github/spring/splitscreen/block-1-test-thurs2.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test-thurs2.html' (6,172)
+2020-06-15 14:54:19: Copy New 'L:/Github/spring/splitscreen/block-1-test.html' -> 'K:/Website backup/AE2020Spring/splitscreen/block-1-test.html' (6,358)
+2020-06-15 14:54:19: Copy New 'L:/Github/spring/splitscreen/blocktest.jpg' -> 'K:/Website backup/AE2020Spring/splitscreen/blocktest.jpg' (8,804)
+2020-06-15 14:54:19: Copy New 'L:/Github/spring/survey.html' -> 'K:/Website backup/AE2020Spring/survey.html' (7,072)
+2020-06-15 14:54:19: Copy New 'L:/Github/spring/surveys/surveys.html' -> 'K:/Website backup/AE2020Spring/surveys/surveys.html' (15,003)
+2020-06-15 14:54:19: Copy Over 'L:/Github/spring/textbook.html' -> 'K:/Website backup/AE2020Spring/textbook.html' (15,148)
+2020-06-15 14:54:19: Copy Over 'L:/Github/spring/tutorials.html' -> 'K:/Website backup/AE2020Spring/tutorials.html' (5,897)
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/HEAD
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/post-update.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/favicon-16x16.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/pre-receive.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/21/becc349168c6dbdce8af89c39022384c45eb68
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/external-black.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/Facebook.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/applypatch-msg.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/fsmonitor-watchman.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block1/family.pdf
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/bootstrap/bootstrap.bundle.min.js
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/pre-applypatch.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/modal.afphoto
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/jquery-easing/jquery.easing.compatibility.js
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/pre-commit.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/favicon-32x32.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/jquery-easing/jquery.easing.js
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/message.jpg
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/LastFM.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/livestream-viewer.html
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block2/nature.pdf
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/favicon-16x16.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/pack/pack-b32eab5c5ce6b6ae97e6dd86675a8350134c97e0.pack
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/self-intro.html
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/README.md
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/modal/messaging.jpg
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block1/fruit.pdf
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/custom.js
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block1/buildings.pdf
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/css/xopixel.css
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/update.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/jquery/jquery.min.js
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/pre-rebase.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/config
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/refs/remotes/origin/HEAD
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/29/90a3e091e2d45e2943beed09a4d0b50c97f676
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/logo.gif
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/css/bootstrap.min.css
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/logo.jpg
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block1/animals.pdf
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/Instagram.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/packed-refs
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/logo.png
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block2/mathematics.pdf
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/thumbs/animals-thumb.jpg
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/6c/c078560dac8a329455742ba816a2b27f25b00c
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/commit-msg.sample
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/jquery-easing/jquery.easing.min.js
+2020-06-15 14:54:20: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/pack/pack-b32eab5c5ce6b6ae97e6dd86675a8350134c97e0.idx
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/e3/7f67f29aa26036c95b59cfdd2ef7ff84624d3d
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/logs/refs/remotes/origin/HEAD
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/js/jquery/jquery.js
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/description
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/livestream.jpg
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/practice/block1/household.pdf
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/08/9acf6c01ede159d5c1d34315f795c078b36918
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/welcome.jpg
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/css/tabs.css
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/pre-push.sample
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/css/style.css
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/css/normalize.css
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/modal/message-2.jpg
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/welcome.webp
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/external.png
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/sent.html
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/hooks/prepare-commit-msg.sample
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/dd/4aeb870ea16cd31e8e8bbd327665ddcfb6c8a1
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/index.html
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/objects/d8/96839803a2b74289404a8c72c8a61385ad894f
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.git/info/exclude
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/splitscreen/favicon-32x32.png
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/img/modal/message-1.jpg
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/.gitattributes
+2020-06-15 14:54:21: Deleted Recycled: K:/Website backup/AE2020Spring/_gsdata_/_saved_/gulpfile.js
+2020-06-15 14:54:21: == Sync Complete. Time: 00:00:58, Speed: 584.18 KB/s, OK: 509, Errors: 0
+2020-06-15 14:54:21: 
