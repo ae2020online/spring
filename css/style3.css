@@ -38,6 +38,15 @@ h3.header {
 	padding: .2rem .3rem;
 }
 
+h3.lessonwork {
+	background: transparent;
+	color: #000;
+	font-family: Arial Black;
+	font-size: 1.8rem;
+	margin: 0;
+	padding: .8rem 0 0 0;
+}
+
 h3.lesson {
 	color: #505050;
 	padding-bottom: 1.2rem;
@@ -45,6 +54,12 @@ h3.lesson {
 
 a {
     color: #2196f3;
+}
+
+p.textbook {
+    color: #2196f3;
+	font-size: 125%;
+	font-weight: 700;
 }
 
 a:hover,
@@ -243,7 +258,8 @@ a.menu-link:hover {
 } 
 
 .port-head-cont{
-	background: #B22222;
+	background: rgb(9,9,121);
+	background: linear-gradient(90deg, rgba(9,9,121,1) 15%, rgba(0,212,255,1) 100%);
     margin: 0 1rem 10px;
     text-align: center;
 }
@@ -713,7 +729,7 @@ a.menu-link:hover {
 }
 
 .menu-mauve {
-	color: #C71585;
+	color: #5B4253;
 }
 
 .social-icon {
@@ -762,4 +778,13 @@ hr.menu {
 	padding: .6rem;
 	margin-bottom: 2rem;
 	width: 90%;
+}
+
+.col-sm-6 {
+    padding: 0;
+}
+
+span.textbook {
+  display: inline-block;
+  width: 300px;
 }

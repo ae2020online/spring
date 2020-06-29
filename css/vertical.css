@@ -1,0 +1,116 @@
+.vertical-tabs-container {
+  border-radius: 3px;
+  border: 1px solid gainsboro;
+  margin-bottom: 1.5em;
+  overflow: hidden;
+  min-height:75vh;
+}
+.vertical-tabs-container::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.vertical-tabs-container li {
+  list-style: none;
+}
+.vertical-tabs-container a {
+  color: #477DCA;
+  text-decoration: none;
+}
+.vertical-tabs-container .vertical-tabs {
+  display: none;
+}
+@media screen and (min-width: 40em) {
+  .vertical-tabs-container .vertical-tabs {
+    background-color: white;
+    display: inline;
+    float: left;
+    height: 18.75em;
+    width: 20%;
+  }
+}
+@media screen and (min-width: 40em) {
+  .vertical-tabs-container .vertical-tab {
+    border-bottom: 1px solid gainsboro;
+    display: block;
+    font-weight: bold;
+    margin-right: -1px;
+    padding: 0.75em 0.809em;
+  }
+  .vertical-tabs-container .vertical-tab.is-active {
+    background-color: #fafafa;
+    margin-right: -1px;
+  }
+}
+.vertical-tabs-container a.vertical-tab-accordion-heading,
+.vertical-tabs-container a.vertical-tab {
+  color: #333;
+}
+.vertical-tabs-container .vertical-tab:focus {
+  outline: none;
+}
+.vertical-tabs-container .vertical-tab-content-container {
+  display: block;
+  margin: 0 auto;
+}
+.vertical-tabs-container .vertical-tab-content-container a:focus {
+  outline: none;
+}
+@media screen and (min-width: 40em) {
+  .vertical-tabs-container .vertical-tab-content-container {
+    height: 18.75em;
+    width: 80%;
+    background-color: #fafafa;
+    display: inline-block;
+  }
+}
+.vertical-tabs-container .vertical-tab-content {
+  background-color: #fafafa;
+  padding: 1.5em 1.618em;
+}
+.vertical-tabs-container .vertical-tab-content p {
+  color: #333;
+  line-height: 1.5em;
+}
+@media screen and (min-width: 40em) {
+  .vertical-tabs-container .vertical-tab-content {
+    border: none;
+    display: none;
+  }
+}
+.vertical-tabs-container .vertical-tab-accordion-heading {
+  background-color: white;
+  border-top: 1px solid #ccc;
+  cursor: pointer;
+  display: block;
+  font-weight: bold;
+  padding: 0.75em 0.809em;
+}
+.vertical-tabs-container .vertical-tab-accordion-heading:focus, .vertical-tabs-container .vertical-tab-accordion-heading:hover {
+  color: #477DCA;
+}
+.vertical-tabs-container .vertical-tab-accordion-heading:first-child {
+  border-top: none;
+}
+.vertical-tabs-container .vertical-tab-accordion-heading.is-active {
+  background: #fafafa;
+  border-bottom: none;
+}
+@media screen and (min-width: 40em) {
+  .vertical-tabs-container .vertical-tab-accordion-heading {
+    display: none;
+  }
+}
+.videocontainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
