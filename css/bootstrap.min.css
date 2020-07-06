@@ -5189,6 +5189,7 @@ button.close {
 }
 
 .modal {
+	background: #fff;
     position: fixed;
     top: 0;
     right: 0;
