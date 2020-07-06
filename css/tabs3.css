@@ -14,6 +14,7 @@
   -ms-flex-order: 1;
   order: 1;
   display: block;
+  font-size: 90%;
   padding: .1rem .6rem;
   margin-right: 0.2rem;
   cursor: pointer;

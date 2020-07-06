@@ -1,6 +1,6 @@
 .vertical-tabs-container {
   border-radius: 3px;
-  border: 1px solid gainsboro;
+  border: 1px solid #fafafa;
   margin-bottom: 1.5em;
   overflow: hidden;
   min-height:75vh;
@@ -15,6 +15,7 @@
 }
 .vertical-tabs-container a {
   color: #477DCA;
+  font-size: 90%;
   text-decoration: none;
 }
 .vertical-tabs-container .vertical-tabs {
@@ -31,7 +32,7 @@
 }
 @media screen and (min-width: 40em) {
   .vertical-tabs-container .vertical-tab {
-    border-bottom: 1px solid gainsboro;
+    border-bottom: 1px solid #fafafa;
     display: block;
     font-weight: bold;
     margin-right: -1px;
@@ -39,6 +40,7 @@
   }
   .vertical-tabs-container .vertical-tab.is-active {
     background-color: #fafafa;
+	color: blue;
     margin-right: -1px;
   }
 }
