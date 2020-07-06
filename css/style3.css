@@ -354,6 +354,10 @@ a.menu-link:hover {
     padding: 25px 0;
 }
 
+.portfolio-modal .close-bar {
+    padding: 0 0 10px 0;
+}
+
 .portfolio-modal .title-bar h1{
     visibility: initial;
     animation-name: initial;
